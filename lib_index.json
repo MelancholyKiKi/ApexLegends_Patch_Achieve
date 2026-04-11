@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "apex-legends-aftershock-event-2026-03-23",
+      "title": "全面击破活动与赛季中期更新说明",
+      "game": "Apex 英雄",
+      "published_at": "2026-03-23",
+      "version": "全面击破",
+      "summary": "加入火力全开外卡、涡流护盾、9 个新外卡、传奇平衡调整，以及全新的精英赫姆洛克破障突击步枪。",
+      "cover_image": "https://...",
+      "tags": ["版本更新", "活动", "平衡调整"],
+      "detail_file": "apex-legends-aftershock-event-2026-03-23.json"
+    },
+  ]
+}
