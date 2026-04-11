@@ -1,0 +1,265 @@
+{
+  "id": "apex-legends-aftershock-event-2026-03-23",
+  "source_url": "https://www.ea.com/games/apex-legends/apex-legends/news/aftershock-event",
+  "game": "Apex 英雄",
+  "title": "全面击破活动与赛季中期更新说明",
+  "published_at": "2026-03-23",
+  "lang": "zh-CN",
+  "version": "全面击破",
+  "summary": "Apex 英雄于 2026 年 3 月 23 日发布全面击破活动与赛季中期更新说明。活动自 2026 年 3 月 31 日持续至 2026 年 4 月 21 日，加入火力全开外卡、涡流护盾、9 个新外卡、直布罗陀/恶灵/沃特森平衡调整，以及全新的精英赫姆洛克破障突击步枪。",
+  "cover_image": "https://drop-assets.ea.com/images/fOkvGVFHjJtLUslOGpl5p/5efaaf8d81761455d988143dd858d407/ApexS28_Aftershock_KeyArt_3840x2160_UPDATE.jpg?im=AspectCrop=(16,9),xPosition=0.47994791666666664,yPosition=0.4898148148148148",
+  "sections": [
+    {
+      "heading": "活动概览",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "发布时间：2026-03-23",
+            "活动时间：2026-03-31 至 2026-04-21",
+            "活动主题：全面击破活动",
+            "主要内容：火力全开外卡、传奇改动、精英赫姆洛克、奖励商店、商店外观、地图与系统更新"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "本次更新围绕高压电能战斗展开。外卡模式获得全新强化，传奇、武器、地图、音频与机器人行为也同步迎来中期版本调整。"
+        }
+      ]
+    },
+    {
+      "heading": "外卡：火力全开",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/3rFGgDxJsQ6ZSvk5YLnwcE/72728da7e034cdae39e0ccc4685e0563/APEX_Legends_S28_Screenshots_ChargedUpBPSplit_VortexShield_A_v03.png?im=AspectCrop=%2816,9%29,xPosition=0.47994791666666664,yPosition=0.47453703703703703",
+          "alt": "多名传奇在户外区域交战；电流在玩家之间涌动，一名角色从上方索道掠过，其余角色在地面交火。",
+          "caption": "火力全开外卡实机画面",
+          "source": "official",
+          "width_hint": "wide"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/7huFQQJn2nYcTiLUM8M55j/e5acb32d5c5e986b4f92fac28c2cb97c/APEX_Legends_S28_Screenshots_ChargedUpBPSplit_WildCard_B_v03.png?im=AspectCrop=%2816,9%29,xPosition=0.2713541666666667,yPosition=0.4439814814814815",
+          "alt": "探路者站在补给舱附近，两名传奇朝他跃来；探路者释放电磁脉冲爆发，将周围传奇眩晕。",
+          "caption": "电磁脉冲爆破效果示意",
+          "source": "official",
+          "width_hint": "wide"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "全面击破活动期间的火力全开外卡主打电能战斗。所有传奇都会装备涡流护盾，可以举盾吸收来袭子弹，随后将其反射回敌人。护盾能量可通过收集 EVO 进行补充。"
+        },
+        {
+          "type": "paragraph",
+          "content": "玩家还可以使用电磁脉冲爆破来眩晕敌人并破坏可部署物体。电磁脉冲电池可通过使用涡流护盾抵挡伤害、收集 EVO 或配合新的外卡进行充能。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "更大更好：显著扩大涡流护盾尺寸，并提升展开与收起速度",
+            "卧倒掩护：扩大涡流护盾防护范围，但禁用反弹射击",
+            "高效供能：电磁脉冲爆破仅消耗 50% 能量，每次满能量可释放两次",
+            "音爆：强化电磁脉冲爆破伤害，并附加击退效果",
+            "静电充能：电磁脉冲电池在使用后仍保持满电",
+            "额外电量：救起队友时可获得电磁脉冲电池充能",
+            "后台进程：加入被动电磁脉冲电池充能，奔跑时充能更快",
+            "动能转换器：根据电磁脉冲电池当前充能比例提升移动速度",
+            "热源特征：消耗电磁脉冲电池充能，透墙高亮敌人"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "精英赫姆洛克",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/7G54FAUdnbPUXfJ2ixMSEh/ae3c1cea8b8d25358b2f3aec864cd93b/APEX_Legends_S28_Screenshots_Elite_Hemlok.png?im=AspectCrop=%2816,9%29,xPosition=0.40286458333333336,yPosition=0.47962962962962963",
+          "alt": "暴雷在室内瞄准赫姆洛克破障突击步枪的特写。",
+          "caption": "赫姆洛克破障突击步枪展示图",
+          "source": "official",
+          "width_hint": "wide"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "本次更新推出新的精英武器：赫姆洛克破障突击步枪。这把武器围绕破障和进攻突破设计，拥有全自动射击、消音器，以及新的破障充能模式。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "移除原有点射与单发射击模式",
+            "自动模式：低射速全自动，身体伤害 23，爆头伤害 32，内建消音器",
+            "破障充能模式：单发爆炸射击，冷却时间 15 秒",
+            "破障充能对玩家造成 38 点范围衰减伤害",
+            "破障充能对硬光结构与各种建筑具有显著额外伤害"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "活动外观与收藏内容",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/1GlAXLxyXhbie6d8IsvDyQ/5b56d46f6b4726218560a2417a4b0b4e/Aftershock_Legend_Skins_Blog_thumbnail.png?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "全面击破活动传奇皮肤缩略图，展示的是沃特森的活动皮肤。",
+          "caption": "活动传奇皮肤",
+          "source": "official",
+          "width_hint": "wide"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/2LXbDumWONwMgE8JAXOFwJ/549455daf8e25adf1f0271beb278c981/Aftershock_Weapon_Skins_Blog_thumbnail.png?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "全面击破活动武器皮肤缩略图，展示的是 EVA 的活动皮肤。",
+          "caption": "活动武器皮肤",
+          "source": "official",
+          "width_hint": "wide"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/4TpgCsVkK7m5XjwIimA9tA/05bf53321e7d83f77b71eaf7d124fc6f/Aftershock_Fuse-Prestige_Blog_thumbnail.png?im=AspectCrop=%2816,9%29,xPosition=0.534375,yPosition=0.5",
+          "alt": "全面击破活动中暴雷威望级皮肤的缩略图，展示的是 3 级威望皮肤外观。",
+          "caption": "暴雷威望级皮肤",
+          "source": "official",
+          "width_hint": "wide"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "全面击破活动同步加入一批活动主题外观。传奇皮肤方面包含沃特森、艾许、探路者、地平线、密客与直布罗陀的新造型。"
+        },
+        {
+          "type": "paragraph",
+          "content": "武器皮肤方面则加入 EVA-8“硬核”、哈沃克“科技锻铸”、CAR“静电放电”等新内容。"
+        },
+        {
+          "type": "paragraph",
+          "content": "暴雷还获得了新的威望级皮肤，并附带自定义终结技与跳伞尾迹。"
+        }
+      ]
+    },
+    {
+      "heading": "奖励商店",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/4KiKxRx7MAialsXWaZPCW1/380cd50b7c1dd3489e526f34988e8e7d/Aftershock_Rewards_001.jpg?im=AspectCrop=%2816,9%29,xPosition=0.18567708333333333,yPosition=0.5509259259259259",
+          "alt": "活动奖励页面，展示可用细胞购买的商店物品，中央为命脉，右侧为最高至 15000 细胞的里程碑奖励轨道。",
+          "caption": "奖励商店页面 1",
+          "source": "official",
+          "width_hint": "wide"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/40pZU3AHahz1gaWLMYBsBL/d7d0ee6ba9917637a823ac109b31db01/Aftershock_Rewards_002.jpg?im=AspectCrop=%2816,9%29,xPosition=0.17421875,yPosition=0.5203703703703704",
+          "alt": "全面击破活动奖励页面，中央高亮显示命脉横幅外观，左侧为可购买物品，右侧为最高至 15000 细胞的里程碑奖励轨道。",
+          "caption": "奖励商店页面 2",
+          "source": "official",
+          "width_hint": "wide"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "玩家可以在奖励商店中使用细胞兑换两组轮换奖励，每组奖励仅在限定时间内开放。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "2026-03-31 至 2026-04-10：可获取全面击破组合包、史诗级命脉皮肤、追踪器套组等内容",
+            "2026-04-10 至 2026-04-21：可获取全面击破组合包、史诗级命脉横幅边框等内容"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "全面击破里程碑收藏活动还会在商店中开放至 2026-05-05，也可通过全面击破组合包获得。"
+        }
+      ]
+    },
+    {
+      "heading": "商店页签",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/2KgFd7SXVD9OJaxrdRe8RS/3195b89e3383b716ed57881d419a023a/Aftershock_Store_Offers_v1.jpg?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "游戏内商店阵容展示六款传奇皮肤，价格以 Apex 金币或合成金属标示。",
+          "caption": "全面击破商店外观",
+          "source": "official",
+          "width_hint": "wide"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "全面击破里程碑收藏活动也会在商店页开放，时间从 2026-03-31 持续到 2026-05-05。玩家可以直接购买，也可以通过全面击破组合包获取对应内容。"
+        }
+      ]
+    },
+    {
+      "heading": "传奇更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "直布罗陀：新增动量提升；保护穹顶冷却 17 秒降至 13 秒；大招半径基础提升 20%；新增雷霆穹顶、治疗穹顶、三重轰炸升级",
+            "恶灵：战术冷却 20 秒降至 15 秒；大招冷却 2.5 分钟降至 1.5 分钟；施法速度提升；新增虚空穹顶与虚空跃迁升级",
+            "沃特森：围栏可强化硬光网格；围栏伤害 20 提升至 35；部署时间 1 秒降至 0.5 秒；大招可自动强化并重建硬光网格"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "武器改动",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "30-30 Repeater：基础伤害 41 -> 43",
+            "RE-45 Burst：精英版本转为默认版本，并移除精英武器外观处理",
+            "P2020：Hammerpoints 解锁点数 500 -> 425，基础弹匣 8 -> 9",
+            "EVA-8：提升基础换弹速度",
+            "Prowler PDW：缩短点射间隔并改善后坐力"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "地图与模式轮换",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/4GIBY2AO9lvSNnQkK7H0zV/b5e40b9fc23a9a074ad845b17522010a/Map_Changes_-_Elysium.png?im=AspectCrop=%2816,9%29,xPosition=0.42291666666666666,yPosition=0.5458333333333333",
+          "alt": "奥林匹斯地图的广角俯视图，展示极乐世界已被移动到靠近裂隙的东北角位置。",
+          "caption": "奥林匹斯地图改动：极乐世界新位置",
+          "source": "official",
+          "width_hint": "wide"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "奥林匹斯地图上的极乐世界被移动到地图东北角、裂隙附近的新位置，目的是减少排位和竞技模式中的强制落点冲突。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "公开赛与排位赛地图轮换：奥林匹斯、风暴点、世界边缘",
+            "混合模式时间：2026-03-24 至 2026-05-05",
+            "外卡模式时间：2026-03-31 至 2026-05-05",
+            "火力全开特别规则时间：2026-03-31 至 2026-04-21",
+            "四月好友日：2026-04-01"
+          ]
+        }
+      ]
+    }
+  ]
+}
