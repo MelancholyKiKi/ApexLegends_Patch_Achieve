@@ -1,0 +1,204 @@
+{
+  "id": "apex-legends-amped-patch-notes-2025-11-03",
+  "source_url": "https://www.ea.com/games/apex-legends/apex-legends/news/amped-patch-notes",
+  "game": "Apex 英雄",
+  "title": "强化版本更新说明",
+  "published_at": "2025-11-03",
+  "lang": "zh-CN",
+  "version": "强化",
+  "summary": "“强化”赛季带来奥林匹斯大改、音频与稳定性更新、心愿单系统、三叉戟 2.0，以及瓦尔基里、兰伯特和地平线等多项平衡调整。",
+  "cover_image": "https://drop-assets.ea.com/images/2cmYNCswheO8awWyuz79dj/0a44ed7aa84fa2f2101243418cc50309/Apex_S27_Gameplay_Trailer_Thumbnail_3840x2160.jpg?im=AspectCrop%3D%2816%2C9%29%2CxPosition%3D0.2682291666666667%2CyPosition%3D0.3111111111111111",
+  "sections": [
+    {
+      "heading": "强化赛季概览",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/2cmYNCswheO8awWyuz79dj/0a44ed7aa84fa2f2101243418cc50309/Apex_S27_Gameplay_Trailer_Thumbnail_3840x2160.jpg?im=AspectCrop%3D%2816%2C9%29%2CxPosition%3D0.2682291666666667%2CyPosition%3D0.3111111111111111",
+          "alt": "强化赛季玩法预告缩略图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "“强化”是《Apex 英雄》第 27 赛季。它围绕奥林匹斯改版、近距离混战环境、三叉戟 2.0、全新配件体系和多名传奇的现代化调整展开。"
+        },
+        {
+          "type": "paragraph",
+          "content": "本次更新还包含反作弊进展、音频系统改良、服务器稳定性工具、心愿单系统和赛季包，属于一篇覆盖玩法、系统与经济化内容的完整赛季更新说明。"
+        }
+      ]
+    },
+    {
+      "heading": "反作弊、音频与稳定性",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "反作弊：团队在 2025 年 10 月上线新的侦测模型，用于识别第三方 bot 帐号。两周内封禁超过 1000 个 bot 帐号，其中多数集中在 Windows PC 与 Switch。",
+            "音频：新增 Focused 混音选项，以威胁感知和多频段 sidechain 压缩来强化脚步等关键声音的可辨识度，并改善室内外环境音衔接。",
+            "稳定性：把 RProf 分析工具部署到生产服务器，用来收集慢性能样本并定位大规模环境下的引擎与脚本瓶颈。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "新功能：心愿单与强化赛季包",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "心愿单允许玩家指定想优先掉落外观的传奇与武器类别。它不会影响所有组合包，只对标记为支持心愿单的组合包生效。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "玩家可以选择 5 名传奇和 2 个武器类别加入心愿单。",
+            "若组合包掉落了支持心愿单的物品，则至少保证其中 1 个物品来自你选定的传奇或武器类别。",
+            "所有选择必须处于有效状态；如果你已拥有某传奇或武器类别在 Apex Pack 池中的全部物品，则该选择不再有效。",
+            "若心愿单在开启组合包时处于未激活或不可用状态，则该物品会改从普通 Apex Pack 池中抽取。",
+            "每个赛季免费提供 5 次心愿单编辑机会，之后每次编辑消耗 500 传奇代币。",
+            "强化赛季包支持心愿单掉落，赛季内可通过挑战和免费通行证轨道最多获取 5 个。",
+            "强化赛季包的核心奖励包括 Bird of Prey 神话级 R-99 武器、全新传说外观，以及与所选传奇或武器对应的史诗级心愿单掉落机会。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "基础玩法更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "空投轮换：三重式狙击枪回归地面，C.A.R. 冲锋枪进入空投。",
+            "金枪轮换：Alternator、G7 Scout、Havoc、波塞克复合弓、双持莫桑比克。",
+            "扩展补给仓与武器补给仓：小地图和大地图图标回归。",
+            "Arsenals：弹药砖提供改为一次性给满对应弹药堆叠。",
+            "复制器：新增 Arrow Bundle，仅当你装备波塞克复合弓并制作弹药时可获得；拾取后会补满一把波塞克的箭矢库存。",
+            "Mantle Boost：所有传奇都加入翻越后时机输入加速，支持独立按键设置和 HUD 简化。",
+            "隔热板：从核心 BR 模式（包括三排与双排）移除。",
+            "三叉戟 2.0：模型和碰撞重做，拥有 800 生命值，可被摧毁；载具与乘员伤害分离；高速撞击可伤害敌人；单次加速替换为 Boost Meter；新增跳跃、滑翔、自动回复和自动重生机制，并补充健康状态 UI。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "传奇调整",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "瓦尔基里 VTOL Jets：喷气背包整体重做。充能延迟由 8 秒缩短到 2.5 秒，回满时间由约 10.9 秒缩短到 3 秒，且只有落地后才会开始回复；EMP 会抽空燃料。横向飞行速度、横移和垂直速度大幅提升，但总燃料由 8 秒降至 6 秒，初始耗油略有提高。",
+            "瓦尔基里 Missile Swarm：移除自伤和自晕；命中后附带 1.5 秒全身扫描；战术伤害会让敌方移动被动进入冷却；冷却由 30 秒缩短到 25 秒；移除垂直净空限制；导弹路径优化；最大射程从约 100 米提高到 125 米。",
+            "瓦尔基里 Skyward Dive：起飞高度 +15%，冷却由 3 分钟缩短到 2.5 分钟，起飞前延迟由 2 秒缩短到 1.5 秒，起飞前慢升阶段略缩短，自行取消不再附带冷却惩罚，受伤冷却惩罚由 54 秒降至 30 秒。",
+            "瓦尔基里 Skydive：跳伞时允许施放战术技能（运输船跳伞除外），并缩短接地前的慢速下落时间。",
+            "瓦尔基里 升级：Afterburners 并入基础技能；Eyes in the Sky 移到 2 级；Full Coverage 将导弹阵列改为 4x5；3 级新增 Supersonic，让终极起飞时间缩短约 50%；Aerial Expert 重做，强化喷气背包水平速度、操控、初始油耗和总燃料表现。",
+            "兰伯特 Battle Modder：原被动 Modded Loader 增加新效果，随着 Evo 等级提升，掩体墙会永久增加生命值。",
+            "兰伯特 Amped Cover：掩体新增放大护盾屋顶；穿过放大护盾输出伤害或被敌方攻击时都会积累墙体充能，队友跨越墙体时会转化为冲刺速度增益。墙体最多储存 300 点伤害，满充能可提供 15 秒加速；墙体受击按 25% 计入，护盾穿透伤害按 100% 计入。",
+            "兰伯特 掩体成长：墙体生命值随 Evo 每级 +200，满级从 400 提升到 800；护盾生命值每级 +25，满级达到 225；建造过程中的生命值从 120 降到 100；Arc Star 对放大护盾的倍率从 1.5x 移除；破片手雷对墙体倍率从 1.0x 增至 2.0x。",
+            "兰伯特 升级：2 级新增 Combat Reserve（更大弹药堆叠、更多手雷栏位、可开红色武器补给仓）和 Locked and Loaded（在完好放大掩体后获得更快换弹与无限弹药）；3 级新增 Rebuild Module（掩体在脱战后会自我回复并重建护盾段）。",
+            "地平线 Gravity Lift：提升升力速度，顶部悬停时间由 0.5 秒提高到 1.5 秒；有效冷却由 35 秒降到 22 秒。",
+            "地平线 Black Hole：冷却由 3.5 分钟缩短到 3 分钟，生命值由 175 提高到 225。",
+            "地平线 升级：2 级新增 Gravity Boots（空中按下蹲快速下落）和 Newt Scoot（离开重力电梯后按跳跃滑翔）；3 级新增 Knock Expert（击倒敌人获得战术充能）。",
+            "亡灵：削弱 Shadow Pounce 的最大可达速度，限制其高端对局中的超远距离突击能力。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "战利品、配件与武器",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "Amps：Overflow Healer 治疗速率下调；Infinite Ammo 与 Over Armor 加入前期地面战利品；Assault 补给仓有机会掉落 Over Armor。",
+            "Gold Laser Sight：新增适用于所有冲锋枪与手枪的金色激光瞄具，大幅改善地面与空中的腰射散布，并带来反向腰射机制。",
+            "锁定配件：Double Tap Trigger 需要 375 点数解锁并适配 Alternator；Accelerator 从 G7 Scout、Flatline、CAR 移除；Skull Piercer 从 30-30、Wingman、Longbow 移除；Graffiti Mod 从 Spitfire 与 EVA-8 移除并加入 Mozambique 与 Wingman；Gun Shield Generator 从 Rampage 移除并加入 Triple Take；Charge Rifle 的 Selectfire Receiver 解锁点数提高到 450。",
+            "轻机枪：除 L-STAR 外，所有 LMG 取消 Reverse Hipfire，作为补偿降低腰射扩散并恢复更经典的准星。",
+            "射手武器整体：降低弹丸尺寸与成长、降低弹速、降低爆头倍率。30-30 的爆头倍率也在此前热修中下调。波塞克新增 2x-4x AOG 镜兼容。地面版三重式狙击枪单发伤害降到 22，蓄力时间变长，但腰射射速更快。",
+            "手枪：空投 P2020 提升射速并把弹匣扩到 26；RE-45 Burst 改善水平和垂直后坐力，紫色弹匣容量额外 +3。",
+            "霰弹枪：和平捍卫者满额伤害从 108 降到 99，蓄力时间变长，复进时间降至 1.1 秒，弹容从 6 降到 5。",
+            "冲锋枪：Alternator 伤害提高到 19，蓝弹匣降到 26，紫/金弹匣升到 30；装备 Double Tap Trigger 时会双管齐射、降低射速并把单发伤害调到 15。C.A.R. 空投版新增 Galvanic Gavel，可在 Disruptor 与 Hammerpoint 之间切换弹匣模式，弹匣容量提高到 30，切换换弹更快。Prowler 连发模式支持按住扳机持续连发，但略微增加每组 burst 之间的延迟。Volt 在近距离下弹丸体积更大。",
+            "狙击枪：全体狙击枪弹丸体积下调；Charge Rifle 最高伤害从 110 降至 99，使用 Select Fire 模式时伤害惩罚从 25% 增加到 40%，最小伤害衰减距离提高到 75 米。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "奥林匹斯改版与轮换",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "强化赛季对奥林匹斯做了大规模、偏竞技向的地图改修，目标是缓解轮转失衡、空旷区域过多以及部分兴趣点掩体不足等问题，同时尽量保留地图原有辨识度。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "新增 Somers University（替代 Orbital Cannon），并将 Elysium 移到附近。",
+            "新增 Gravity Engine（替代 Energy Depot）、Stabilizer（替代 Docks）和 Dockyard。",
+            "在 Phase Driver、Oasis、Clinic、Hammond Labs、Estates 等开放轮转区增加大量掩体。",
+            "Hammond Labs 地形重做，新增隧道、控制模式掩体和后方跳塔。",
+            "Rift 新增中央营地与通向 Gardens 方向的大型营地，并把原本会吸人的 Rift 传送器改成 Horizon Lift。",
+            "Grow Towers 的第三座塔被建筑与隧道替代，并新增跳塔。",
+            "Turbine 下方新增营地和通向 Gravity Engine 的新轮转路线。",
+            "Carrier 中央瓶颈新增两扇门，避免交火停滞。",
+            "Phase Driver 的刷新冷却由 45 秒提高到 90 秒。",
+            "Bonsai Plaza 增加更多高墙索道，并移除了地图上大量三叉戟护栏。",
+            "公开赛与排位轮换：奥林匹斯、残月、世界尽头。",
+            "Mixtape 轮换时间：2025-11-04 至 2026-01-05；TDM：骷髅镇、Thunderdome、碎片、Estates；Control：Barometer、Labs、Production Yard、Lava Siphon；Gun Run：Estates、骷髅镇、Zeus、Thunderdome。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Wildcard 与排位",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "Wildcard 在 2025-11-04 至 2025-11-18 的地图为 Kings Canyon。",
+            "Wild Cards 现在不再局限于活动期间，改为在非活动期也会作为常驻机制启用。当前常驻外卡包括 Extra Ordnance、Drone Support、Smoke Out、High Velocity、Status Report、Speedy Charge、Recharger、Fast Draw、Monstrous Strength。",
+            "Wildcard 高亮改动：除非只剩 1 名敌人存活，否则击杀不再触发整队高亮；手动流血放弃也不会触发高亮；高亮时长由 5 秒缩短到 2.5 秒。",
+            "护盾电池：携带上限由 12 提高到 15，并提高战利品中护盾电池的数量。",
+            "1x 金色数字威胁镜作为稀有掉落回归，可装备在冲锋枪、霰弹枪和手枪上。",
+            "外卡平衡：Recharger 在冲刺时的护盾回复速率下调；Wallrunning 外卡的初始速度增益下调。",
+            "神话武器轮换：离开轮换的有 L-STAR、Devotion、Hemlok、R-99、Peacekeeper；回归的有 Kraber、Triple Take、Wingman、Prowler、双持 P2020、Rampage（首次拾取即自动充能）、G7 Scout（可装 Double Tap 与狙击镜）；新增 C.A.R.。",
+            "排位计分调整：1-4 名的单次击杀积分上调到 22/20/18/16，5-10 名也整体提高，11-15 名提高到 8 RP，16-20 名提高到 6 RP。",
+            "挑战者奖励：击杀者比被击杀者低 1/2/3 个大段时，击杀积分额外加成改为 +20% / +30% / +40%。",
+            "排位降落点战利品重做：所有 Drop Zone 兴趣点的战利品分布更公平，但仍保留少量差异；本次只影响排位，不影响非排位。",
+            "排位天梯时间：天梯 1（2025-11-13 至 2025-11-16）、天梯 2（2025-11-20 至 2025-11-23）、天梯 3（2025-11-27 至 2025-11-30）、天梯 4（2025-12-04 至 2025-12-07）、天梯 5（2025-12-11 至 2025-12-14）、天梯 6（2025-12-25 至 2025-12-28）、天梯 7（2026-01-01 至 2026-01-04）、天梯 8（2026-01-08 至 2026-01-11）、天梯 9（2026-01-15 至 2026-01-18）、天梯 10（2026-01-22 至 2026-01-25）、天梯 11（2026-01-29 至 2026-02-01）、天梯 12（2026-02-05 至 2026-02-08）。",
+            "排位挑战：获得排位天梯冠军俯冲轨迹的要求由 3 次完成降低到 2 次。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "问题修复与体验优化",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "Wildcard：修复玩家能互相拉人以在毒圈里活得过久的问题。",
+            "Locked Hop-Ups：修复射击场中锁定配件失效、Ballistic 的 Sling 与锁定配件武器联动异常，以及相关 UI 问题。",
+            "排位：修复赛前预览中无法移除地图标记的问题。",
+            "杂项：修复 Infinite Ammo Amp 让玩家复活后背包栏位锁死、复古组合包已开数量不更新、跳伞表情在传奇页留下错误提示、隔窗射击时血条异常显示、Artillery 附近透视墙面等问题。",
+            "传奇修复：瓦尔基里跳伞时过饱和的绿色校色问题；兰伯特进入 Amped Cover 时镜头跳动；卡特莉丝 Piercing Spikes 的双重威胁提示；直布罗陀手臂护盾伤害浮字错误；纽卡斯尔 Castle Wall 偶尔隔墙穿楼命中敌人的问题。",
+            "Requeue, with Squad：新增“和本局队友继续排”功能。单排或已有小队的队长可以选择继续和本局也选择 Play Again 的其他队伍合并成新队伍，而不需要先回到大厅。",
+            "UX/UI：传奇储物柜中新增隐藏/显示 UI 的查看按钮；统一了大量方形按钮组件的交互与视觉。",
+            "杂项体验：新增麦克风开关语音聊天选项；排位会加入播报语音，提示队伍正在降落到哪个 Drop Zone。",
+            "兰伯特额外优化：持有 Sheila 时现在可以进行搜刮等交互；按住瞄准键可进入单墙部署模式；穿过放大掩体射击时的增强弹道轨迹尺寸缩小；倒地被召回至 Void Nexus 时新增语音。",
+            "引擎：改善集成显卡设备，尤其是 Intel Iris XE 笔记本的模型与贴图加载表现；PC 现支持 Handheld/Compact UI，适合掌机设备使用。"
+          ]
+        }
+      ]
+    }
+  ]
+}
