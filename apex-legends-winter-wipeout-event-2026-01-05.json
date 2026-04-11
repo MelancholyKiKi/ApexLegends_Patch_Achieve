@@ -1,0 +1,208 @@
+{
+  "id": "apex-legends-winter-wipeout-event-2026-01-05",
+  "source_url": "https://www.ea.com/games/apex-legends/apex-legends/news/winter-wipeout-event",
+  "game": "Apex 英雄",
+  "title": "寒冬覆灭活动与赛季中期更新说明",
+  "published_at": "2026-01-05",
+  "lang": "zh-CN",
+  "version": "强化",
+  "summary": "寒冬覆灭活动带来悬滑板、全新外卡、活动奖励与商店内容，并对动力小子、纽卡斯尔、密客和亡灵进行调整，同时更新地图轮换、排位天梯与多项体验优化。",
+  "cover_image": "https://drop-assets.ea.com/images/C3L4kbwFtSOzhnS6JebxD/efe5af0f716b9e6d99fd3cb689d14ba3/Apex_S27_WINTER_WIPEOUT_Event_Trailer_Thumbnails_3840x2160.jpg?im=AspectCrop%3D%2816%2C9%29%2CxPosition%3D0.48854166666666665%2CyPosition%3D0.4847222222222222",
+  "sections": [
+    {
+      "heading": "寒冬覆灭活动概览",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/C3L4kbwFtSOzhnS6JebxD/efe5af0f716b9e6d99fd3cb689d14ba3/Apex_S27_WINTER_WIPEOUT_Event_Trailer_Thumbnails_3840x2160.jpg?im=AspectCrop%3D%2816%2C9%29%2CxPosition%3D0.48854166666666665%2CyPosition%3D0.4847222222222222",
+          "alt": "寒冬覆灭活动预告片缩略图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "寒冬覆灭活动于 2026 年 1 月 6 日至 1 月 27 日开放，活动结束后相关活动物品仍会在商店中保留至 2026 年 2 月 10 日。玩家可以在奥林匹斯的冬季主题环境中使用全新的悬滑板，并体验一组新的 Wild Cards。"
+        },
+        {
+          "type": "paragraph",
+          "content": "本次活动同步带来动力小子、纽卡斯尔和密客的大幅更新，以及少量亡灵调整。更新还覆盖武器平衡、地图质量改进、排位天梯、已知问题和收件箱等系统体验。"
+        }
+      ]
+    },
+    {
+      "heading": "悬滑板与新外卡",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "在 Wildcard 中，玩家会在生存道具栏直接获得悬滑板，并且每次重生后都会保留。悬滑板为每场交战增加了高速机动能力，同时还能通过空中特技提供额外 Evo 奖励。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "二段跳：在空中再次按跳跃可以追加一次跳跃。",
+            "沿墙滑行：保持足够速度时可在垂直表面骑墙滑行，并在离墙时触发对应特技。",
+            "高空坠落加速：从很高处落地时会额外获得速度。",
+            "索道跳跃：骑乘悬滑板时可挂上索道，并在脱离索道时获得朝任意方向的速度爆发。",
+            "Evo 连招：短时间内连续完成更多特技会获得更高的 Evo 奖励。",
+            "冲撞攻击：高速状态下可以撞击敌人造成伤害和击退，速度越高伤害越高。",
+            "滑行：通过滑行动作保留更多动量并进行更锐利的转向，在下坡时更有效。",
+            "对骑乘悬滑板的敌人造成重创后，可以将其从悬滑板上击落。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "本次活动加入三张全新外卡，并保留部分旧外卡继续轮换。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Brain Freeze：爆头会造成额外伤害，并大幅减速敌人。",
+            "Love Potion：使用消耗品时，附近队友会获得同样的生命回复效果。",
+            "Protective Launch：乘坐任何跳板后，玩家会获得小幅护盾回复。",
+            "继续保留轮换的外卡：Go-Go Ammo、Fast Draw、Burning Rubber、Speedy Charge、Stowed Reload、Extra Zippy、The Quick and the Dead、Get Up and Go、Drone Support、Smoke Out。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "活动物品、奖励商店与商店页签",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "寒冬覆灭活动包中收录了寻血猎犬、Alter、暴雷、疯玛吉、直布罗陀和纽卡斯尔的传说皮肤及对应武器外观。地平线还获得了全新的 Apex Stellaris 威望皮肤与处决动画。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "所有活动物品都可以使用 Apex 金币或合成金属直接兑换。",
+            "活动期间，这些物品也会出现在寒冬覆灭活动组合包中。",
+            "每个活动组合包包含 1 个活动物品和 2 个标准物品，不会重复掉落活动物品。",
+            "活动期间可通过完成每日挑战获取活动货币 Glint，每日最多可获得 1750。",
+            "奖励商店可兑换包括史诗级沃特森皮肤、活动组合包等在内的奖励，商店内容会在活动半程轮换。",
+            "活动商店页签会持续到 2026 年 2 月 10 日，允许玩家直接购买或制作本次活动中的传说级传奇皮肤。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "平衡与玩法更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "当前金枪轮换：R-99、R-301、獒犬霰弹枪、三重式狙击枪、Rampage 轻机枪。",
+            "地图上的重生信标现在改为每支队伍都能各自使用一次，原本为每局只能用一次；移动重生信标保持不变。",
+            "扩展补给仓与武器补给仓的刷新率下调。",
+            "Infinite Ammo Amp 现在也会作用于空投武器。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "传奇更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "这次中期更新重点重做了动力小子的技能循环，提升了纽卡斯尔的救援和推进能力，并用一系列质量优化补强密客。亡灵则只进行了一项小幅削弱。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "动力小子 被动 Swift Mend：生命值越低，治疗效果越强；基础治疗由 1.5 HPS 提升到 3.0 HPS，最大治疗可达 9 HPS。",
+            "动力小子 新战术 Stim Surge：在已处于 Stim 状态时再次使用战术，可触发持续 6 秒的强化状态，不消耗生命值，重新施加 Stim 效果，拥有单独 20 秒冷却，并赋予 Fortified、触发 Swift Mend，且治疗不会因受到伤害而中断。",
+            "Stim Surge 期间：Fortified 提供 15% 减伤并免疫子弹减速；玩家可长按战术键预输入该技能。",
+            "动力小子 基础 Stim：使用 Stim 时现在可以冲刺并使用消耗品；Stim 再次使用的间隔由 1.8 秒缩短到 0.7 秒；Stim 速度提升 5%。",
+            "动力小子 终极：Mad Hops 与 Aerial Agility 并入基础技能组；跳板现在有 2 次充能；二段跳操控性更好；跳板落地后可立刻再次使用。",
+            "动力小子 新升级：Thick Skin（Stim 额外少消耗 10 点生命值）、Squad Rush（所有使用你跳板的队友落地后获得 Stim）、Daredevil（破甲时获得快速装填，且生命值越低 Stim Surge 持续时间越长）、Triple Jump（跳板获得第三次跳跃）。",
+            "纽卡斯尔 被动：Heroes Hustle 并入基础技能组，救人拖行时的移速惩罚显著降低。",
+            "纽卡斯尔 战术：Swift Shield 并入基础技能组，战术护盾移动速度由 160 提升到 250。",
+            "纽卡斯尔 升级：Stronghold 下移替代 Heroes Hustle；Ready To Rumble 取代 Swift Shield，复活队友时自动装填武器并触发完整回复；Defensive Line 取代 Stronghold，让战术护盾与救援护盾各自获得一次击退敌人的效果。",
+            "密客 被动：驾驶无人机时获得远距离 Threat Vision；Satellite Imagery 并入基础技能组，扫描持续时间增加 1.5 秒，EMP 命中后会提供一次短扫描。",
+            "密客 战术：释放无人机时间由 1.3 秒缩短到 0.7 秒；重新进入无人机由 0.4 秒缩短到 0.2 秒；回到无人机的动画帧从 7 帧减至 2 帧；无人机可以收集 Evo Harvesters；密客现在可以在使用索道时进入或退出无人机。",
+            "密客 Off the Grid 并入基础技能组：驾驶无人机时，密客会进入隐形状态。",
+            "密客 新升级：Ally.MoveTo() 允许密客 Trailblaze 到所有队友位置；Power Coupling 会让密客通过扫描信标和用无人机扫描敌人来获得终极技能充能。",
+            "亡灵：Shadow Pounce 的最大蓄力时间由 1.3 秒提高到 1.7 秒；终极技能部署时间由 2.0 秒增至 2.2 秒，用于给受击方更多反应空间。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "武器与地图",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "VK-47 平行步枪伤害提升到 20（原 19）。",
+            "R-301 卡宾枪伤害提升到 15（原 14）。",
+            "Rampage 的充能持续时间提升到 120 秒（原 90 秒），充能状态下的总射击次数略增。",
+            "L-STAR 初始弹丸体积提高，并且距离越远体积增幅更明显。",
+            "RE-45 Burst 后坐力改善，近距离弹丸体积增大。",
+            "莫桑比克近距离弹丸体积增大。",
+            "Prowler 连发延迟降低，使用 Selectfire 时伤害提升到 17（原 16）。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "奥林匹斯获得了一组面向质量体验的定向优化，目标是改善帧率、减少空旷区域、优化兴趣点的补给与轮转质量，并修正部分排位降落点逻辑。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "奥林匹斯 Gravity Engine 的管道碰撞调整得更平顺。",
+            "Somers University 与 Gravity Engine 的武器库位置调整，并在 Gravity Engine 与 Elysium 额外补充武器库。",
+            "MAZE 索道出口的坡道被重新调整，以便更顺畅地衔接移动技巧。",
+            "Somers University 中央区域的战利品增加。",
+            "Dockyard 上层平台增加更多掩体、战利品和索道。",
+            "Stabilizer 加入重生信标与圆环控制台，并修复外桥面的碰撞问题。",
+            "地图多个区域增加或调整了掩体，同时做了性能优化。",
+            "Turbine 的排位降落点改到兴趣点内部，避免把玩家投放到外侧。",
+            "公开赛地图轮换：奥林匹斯、风暴点、王者峡谷。",
+            "排位地图轮换：奥林匹斯、风暴点、电力区域。",
+            "Mixtape 轮换时间为 2026-01-06 至 2026-02-09；TDM：骷髅镇、Thunderdome、碎片、Estates；Control：Barometer、Labs、Thunderdome、Lava Siphon；Gun Run：Wattson Pylon、骷髅镇、Zeus、Thunderdome。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Wildcard 与排位",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "2026-01-27 至 2026-02-09 的 Wildcard 地图为 Olympus Wildcard Winter。",
+            "该阶段启用的外卡：Extra Ordnance、Drone Support、Smoke Out、High Velocity、Status Report、Speedy Charge、Recharger、Fast Draw、Monstrous Strength。",
+            "排位天梯时间：天梯 6（2025-12-25 至 2025-12-28）、天梯 7（2026-01-01 至 2026-01-04）、天梯 8（2026-01-08 至 2026-01-11）、天梯 9（2026-01-15 至 2026-01-18）、天梯 10（2026-01-22 至 2026-01-25）、天梯 11（2026-01-29 至 2026-02-01）、天梯 12（2026-02-05 至 2026-02-08）。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "问题修复、已知问题与体验优化",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "修复了未安装 Gun Shield Generator 的武器错误获得护盾的问题。",
+            "修复了部分传家宝收枪速度不一致的问题。",
+            "修复了辅助职业在进入队友死亡箱前需要先执行移动重生信标拾取动画的问题。",
+            "疯玛吉：Wrecking Ball 的击退器赋予的 Fortified 现在会像原生 Fortified 一样减少部分额外伤害类型，例如爆炸伤害。",
+            "瓦尔基里：修复战术技能会被近战打断的问题。",
+            "Vantage：修复战术测距器蓝点环不工作的错误。",
+            "已知问题：动力小子在 Stim Surge 期间执行双手动作时，屏幕会残留一小段绿色注射条；攀爬打断 Stim 时可能显示 Stim Surge 注射器模型；Stim Surge 注射器与基础 Stim 注射器模型会重叠；使用双持武器乘坐索道时可不断刷新 Stim 且加速掉血；攀爬物体时尝试使用 Stim Surge 会锁死该能力直到下一次基础 Stim。",
+            "已知问题：密客在敌人持续留在扫描范围内时不会持续获得终极充能，当前只有敌人离开后再进入扫描，或密客自己进出无人机时才会结算充能。",
+            "收件箱更新：新增反作弊消息、登录奖励消息和紧急修复提示；未来更多奖励型弹窗也会迁移到收件箱；玩家可以直接在收件箱查看并装备获得的物品，消息 30 天后自动删除。",
+            "音频：修复敌人在使用动力小子跳板后落地时专用落地音效不播放的问题；修复奥林匹斯 Phase Driver 附近出现高频尖锐噪音的问题。"
+          ]
+        }
+      ]
+    }
+  ]
+}
