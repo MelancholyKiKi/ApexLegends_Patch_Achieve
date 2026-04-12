@@ -1,12 +1,123 @@
 {
   "items": [
     {
+      "id": "apex-legends-wild-iron-event-2025-09-10",
+      "title": "在“狂野钢铁”活动中狠狠干一场",
+      "published_at": "2025-09-10",
+      "version": "狂野钢铁",
+      "summary": "全新神话级平行步枪登场，Wildcard 加入 8 张新外卡，同时上线赛季中期版本更新内容。",
+      "cover_image": "https://drop-assets.ea.com/images/4Rbw9mBnjtm1CEAUoSfGUx/a70369a5db42beab40516a276c746cd5/ApexS26_Wild_Iron_KeyArt_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.5114583333333333,yPosition=0.5611111111111111",
+      "tags": [
+        "活动",
+        "限时模式",
+        "平衡调整"
+      ],
+      "detail_file": "apex-legends-wild-iron-event-2025-09-10.json"
+    },
+    {
+      "id": "apex-legends-showdown-patch-notes-2025-08-04",
+      "title": "《Apex 英雄》“摊牌”版本更新说明",
+      "published_at": "2025-08-04",
+      "version": "摊牌",
+      "summary": "“摊牌”赛季带来腐蚀与班加罗尔加强、排位系统更新、全新 Drop Zones、Auras、Accolades，以及多项战斗与装备改动。",
+      "cover_image": "https://drop-assets.ea.com/images/521yDIeYuc1ZgrWKa3Ldg9/5c8c793dc45004395db3dc4de6119b10/Apex_S26_Primary_Art_Showdown_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.234375,yPosition=0.4337962962962963",
+      "tags": [
+        "版本更新",
+        "平衡调整",
+        "赛季更新"
+      ],
+      "detail_file": "apex-legends-showdown-patch-notes-2025-08-04.json"
+    },
+    {
+      "id": "apex-legends-galactic-games-event-2025-08-14",
+      "title": "在“银河竞技会”活动中上头开战",
+      "published_at": "2025-08-14",
+      "version": "银河竞技会",
+      "summary": "Wildcard 在本次活动中加入全新机制，“大满贯球棒”登陆外域，更多限时内容同步登场。",
+      "cover_image": "https://drop-assets.ea.com/images/2jLQ4Nwz3wjEo6qGZuskjJ/49b8b1ba2301b3d6807c26bf0121aa5e/Copy_of_ApexS26_GalacticGames_KeyArt_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.29322916666666665,yPosition=0.293287037037037",
+      "tags": [
+        "活动",
+        "限时模式",
+        "奖励内容"
+      ],
+      "detail_file": "apex-legends-galactic-games-event-2025-08-14.json"
+    },
+    {
+      "id": "apex-legends-haute-shot-event-2025-07-10",
+      "title": "在“高级射击”活动中引爆全场",
+      "published_at": "2025-07-10",
+      "version": "高级射击",
+      "summary": "竞技场：决斗回归并加入传奇技能，穿上全新海滩造型，同时解锁全新通用近战武器“天穹穿刺者”。",
+      "cover_image": "https://drop-assets.ea.com/images/0164G5DoZzVH3AIbE4cy3A/2ab9f4b2ea5c6bf229e456a29b4f8e98/Copy_of_ApexS25_HauteShot_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.25703125,yPosition=0.4847222222222222",
+      "tags": [
+        "活动",
+        "限时模式",
+        "奖励内容"
+      ],
+      "detail_file": "apex-legends-haute-shot-event-2025-07-10.json"
+    },
+    {
+      "id": "apex-legends-future-icons-event-2025-06-20",
+      "title": "在“未来偶像”活动中正面对决",
+      "published_at": "2025-06-20",
+      "version": "未来偶像",
+      "summary": "挑战竞技场：决斗，解锁沃特森威望皮肤“巅峰偶像”，并在 2025 年 6 月 24 日至 7 月 15 日期间免费试用沃特森与万塔捷。",
+      "cover_image": "https://drop-assets.ea.com/images/3BpVjRFhTetbHgeZhGKptE/1c63e040aa5051184ac51a4a30ba717b/ApexS25_FutureIcons_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.4942708333333333,yPosition=0.40879629629629627",
+      "tags": [
+        "活动",
+        "限时模式",
+        "平衡调整"
+      ],
+      "detail_file": "apex-legends-future-icons-event-2025-06-20.json"
+    },
+    {
+      "id": "apex-legends-prodigy-patch-notes-2025-05-05",
+      "title": "《Apex 英雄》“神童”版本更新说明",
+      "published_at": "2025-05-05",
+      "version": "神童",
+      "summary": "“神童”赛季上线前的完整补丁说明，涵盖反作弊、竞技场回归、排位重构，以及大量英雄、武器与系统平衡调整。",
+      "cover_image": "https://drop-assets.ea.com/images/5xrAVWiYu4AQWgBaN7co6H/9d6e5306bccd7ac01f072b3bbfe70a97/Copy_of_Apex_S25_Primary_Art_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.29322916666666665,yPosition=0.293287037037037",
+      "tags": [
+        "版本更新",
+        "赛季更新",
+        "平衡调整"
+      ],
+      "detail_file": "apex-legends-prodigy-patch-notes-2025-05-05.json"
+    },
+    {
+      "id": "apex-legends-fight-force-event-2025-04-10",
+      "title": "在“战斗之力”活动中正面交锋",
+      "published_at": "2025-04-10",
+      "version": "战斗之力",
+      "summary": "在 EPG Extreme 限时模式里火力全开，完成 Kaminari Qpi 的挑战，并解锁幻象的威望皮肤“巅峰阿多尼斯”。",
+      "cover_image": "https://drop-assets.ea.com/images/5p1WVS30Rc4iDeD9SEvE3T/23a4962044fbfad480a63a3b31a17f33/Apex_S24_FightForce_KeyArt_Primary_update.jpg?im=AspectCrop=(16,9),xPosition=0.18671875,yPosition=0.15833333333333333",
+      "tags": [
+        "活动",
+        "限时模式",
+        "奖励内容"
+      ],
+      "detail_file": "apex-legends-fight-force-event-2025-04-10.json"
+    },
+    {
+      "id": "apex-legends-takeover-patch-notes-2025-02-10",
+      "title": "《Apex 英雄》“接管”版本更新说明",
+      "published_at": "2025-02-10",
+      "version": "接管",
+      "summary": "“接管”赛季聚焦突击职业强化、Ash 与 Ballistic 重做、全武器伤害普涨，以及头盔、护甲和武器库系统重构。",
+      "cover_image": "https://drop-assets.ea.com/images/AGhhkfwxfr4ZK31ktBsBo/89c9e395bd6686c551fdabb43f2e7442/Apex-S24_feature-image-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.42552083333333335,yPosition=0.44907407407407407",
+      "tags": [
+        "版本更新",
+        "平衡调整",
+        "赛季更新"
+      ],
+      "detail_file": "apex-legends-takeover-patch-notes-2025-02-10.json"
+    },
+    {
       "id": "apex-legends-aftershock-event-2026-03-23",
       "title": "全面击破活动与赛季中期更新说明",
-      "game": "Apex 英雄",
       "published_at": "2026-03-23",
       "version": "全面击破",
-      "summary": "加入火力全开外卡、涡流护盾、9 个新外卡、传奇平衡调整，以及全新的精英赫姆洛克破障突击步枪。",
+      "summary": "加入火力全开外卡、激流护盾、多个新外卡、传奇平衡调整，以及全新的精英轻机枪洛克破障突击步枪。",
       "cover_image": "https://drop-assets.ea.com/images/66VIIMhA7KEUzzZXAe3l0y/a1c1d2961dda5df66753066cabcc76fe/ApexS28_Aftershock_Thumbnails_3840x2160.jpg?im=AspectCrop=%2816,9%29,xPosition=0.29322916666666665,yPosition=0.293287037037037;Resize=(1280)&q=85",
       "tags": [
         "版本更新",
@@ -18,7 +129,6 @@
     {
       "id": "apex-legends-breach-patch-notes-2026-02-09",
       "title": "全面击破版本更新说明",
-      "game": "Apex 英雄",
       "published_at": "2026-02-09",
       "version": "全面击破",
       "summary": "加入硬光网格，调整暴雷、卡特莉丝与寻血猎犬，并更新击倒护盾、背包、排位、Wildcard、Bot Royale 与多项系统体验。",
@@ -33,10 +143,9 @@
     {
       "id": "apex-legends-winter-wipeout-event-2026-01-05",
       "title": "寒冬覆灭活动与赛季中期更新说明",
-      "game": "Apex 英雄",
       "published_at": "2026-01-05",
       "version": "强化",
-      "summary": "加入悬滑板、全新外卡与寒冬覆灭活动奖励，并更新动力小子、纽卡斯尔、密客、地图轮换与排位天梯。",
+      "summary": "加入悬浮滑板、全新外卡与寒冬覆灭活动奖励，并更新动力小子、纽卡斯尔、密客、地图轮换与排位天梯。",
       "cover_image": "https://drop-assets.ea.com/images/C3L4kbwFtSOzhnS6JebxD/efe5af0f716b9e6d99fd3cb689d14ba3/Apex_S27_WINTER_WIPEOUT_Event_Trailer_Thumbnails_3840x2160.jpg?im=AspectCrop%3D%2816%2C9%29%2CxPosition%3D0.48854166666666665%2CyPosition%3D0.4847222222222222",
       "tags": [
         "活动",
@@ -48,7 +157,6 @@
     {
       "id": "apex-legends-amped-patch-notes-2025-11-03",
       "title": "强化版本更新说明",
-      "game": "Apex 英雄",
       "published_at": "2025-11-03",
       "version": "强化",
       "summary": "奥林匹斯大改、心愿单系统、三叉戟 2.0 与多名传奇更新同步上线，并带来完整的武器、Wildcard 与排位改动。",
