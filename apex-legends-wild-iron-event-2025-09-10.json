@@ -1,0 +1,472 @@
+{
+  "id": "apex-legends-wild-iron-event-2025-09-10-zh-cn-full",
+  "source_url": "https://www.ea.com/games/apex-legends/apex-legends/news/wild-iron-event",
+  "title": "在“狂野钢铁”活动中狠狠干一场",
+  "published_at": "2025-09-10",
+  "lang": "zh-CN",
+  "version": "狂野钢铁",
+  "summary": "全新神话级平行步枪登场，Wildcard 加入 8 张新外卡，同时上线赛季中期版本更新内容。",
+  "cover_image": "https://drop-assets.ea.com/images/4Rbw9mBnjtm1CEAUoSfGUx/a70369a5db42beab40516a276c746cd5/ApexS26_Wild_Iron_KeyArt_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.5114583333333333,yPosition=0.5611111111111111",
+  "tags": [
+    "活动",
+    "限时模式",
+    "平衡调整"
+  ],
+  "sections": [
+    {
+      "heading": "活动概览",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/6heBZBUL6KDXXEjfDx1iQ0/beba4ccf73f42a08d804fbab89852281/APEX_S26_Wild-Iron-Event_YT_3840x2160.jpg?im=AspectCrop=%2816,9%29,xPosition=0.8888888888888888,yPosition=0.8888888888888888",
+          "alt": "“狂野钢铁”活动宣传片封面图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "在“狂野钢铁”活动中，机械支配力将与自然蛮力正面对撞。Wildcard 玩法全面爆炸升级。玩家可从兰伯特补给仓中掠夺全新的神话级平行步枪，并体验它的两项毁灭能力：被击倒的敌人会变成定时炸弹，而每射出的第 5 发子弹都会造成双倍伤害并附带范围爆炸。神话级战利品箱中的 EPG-1 榴弹发射器和更高刷新率的波塞克复合弓会让整场战局更加混乱。你还可以制作 8 张新外卡，通过“爆炸伤害标记敌人”或“击倒瞬间自动换弹”等能力取得优势。疯玛吉与希尔也在本次更新中迎来新版传奇调整。"
+        },
+        {
+          "type": "paragraph",
+          "content": "无论你站在自然、科技，还是单纯只想把一切炸上天的一边，现在都是出手并压制全场的时候。"
+        }
+      ]
+    },
+    {
+      "heading": "Wildcard：狂野钢铁",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "准备好开始这场表演了吗？兰伯特的最新杰作正式登场，这次她还拉上了老伙计 Fuse 与平行步枪联名出手。这把合作武器的子弹会不定时附带额外爆炸效果，不仅能在命中时引爆，还能把被击倒的敌人变成炸弹。如果你能在炸弹引爆前把队友扶起来，就能解除这次爆炸。"
+        },
+        {
+          "type": "paragraph",
+          "content": "2025 年 9 月 16 日至 9 月 30 日期间，Wildcard 战利品池会加入更多爆炸类装备，玩家还有机会直接捡到 EPG。前往复制器可以制作 8 张全新 Wild Card，为自己进一步加成。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Crackerjack：击倒敌人时立即自动装填武器",
+            "Down Bad：被击倒的敌人会爆炸",
+            "Extra Ordnance：可额外携带 1 枚投掷物",
+            "Good Doctor：救起队友时额外提供护盾",
+            "Gren-Aid：标记被你爆炸物伤害到的敌人",
+            "Sent Packing：破片手雷击退效果增强",
+            "Shield’s Up：直接获得史诗级护盾",
+            "Stowed Reload：收起的武器在数秒后自动装填"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "活动道具",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/RVMYPDe3VW2fhIpFYGT9g/221ab551335d5b84c2a84259658636ae/Myhtic_Flatline_Thumb.jpg?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "神话级平行步枪展示图。",
+          "source": "official"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/24NK49siO1ekdfMpEVdpcZ/bc9330b8eeb56867be42fd8956af4cda/Wild_Iron_Legend_Skins_Thumb.jpg?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "“狂野钢铁”活动传奇皮肤展示图。",
+          "source": "official"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/5e2fqQEoIPESVRWvN9ExGk/2d7a8a3c6f588ed81c86328edd84c9a8/Wild_Iron_Weapon_Skins_Thumb.jpg?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "“狂野钢铁”活动武器皮肤展示图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "活动期间，开启“狂野钢铁”活动组合包即可争取限时活动外观，包括生命线、探路者、万塔捷等传奇的全新传说皮肤，以及獒犬、波塞克、Nemesis 等武器的传说皮肤。你也有机会直接获得以 Fuse 为灵感打造的神话级平行步枪。"
+        },
+        {
+          "type": "paragraph",
+          "content": "每个活动组合包包含 1 件活动道具和 2 件标准道具，活动道具不会重复。"
+        }
+      ]
+    },
+    {
+      "heading": "奖励商店",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/1OL6eLt6ESGlZdthlthy30/17537cd6a9e639ba65591f9dc29ebea1/Wild_Iron_Reward_Shop_01.jpg?im=AspectCrop=%2816,9%29,xPosition=0.18567708333333333,yPosition=0.5509259259259259",
+          "alt": "“狂野钢铁”活动奖励商店第一轮展示图。",
+          "source": "official"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/DTFFE7CvvxGlX37ubArpe/4bb01ec6c3ca1e938273c240ac4bb6cc/Wild_Iron_Reward_Shop_02.jpg?im=AspectCrop=%2816,9%29,xPosition=0.16848958333333333,yPosition=0.5509259259259259",
+          "alt": "“狂野钢铁”活动奖励商店第二轮展示图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "完成每日活动挑战可以获得 Cores，然后前往“狂野钢铁”奖励商店兑换奖励，并查看四枚活动徽章的进度。活动进行到中途时，商店内容会轮换。"
+        }
+      ]
+    },
+    {
+      "heading": "游戏稳定性",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Steam Datagram Relay（SDR）已重新整合到 GameLift 服务器中，用于更好地抵御 DoS 攻击。官方已在 100% 的钻石与大师排位对局中启用 SDR，并确认疑似 DoS 攻击自此下降约 90%。"
+        },
+        {
+          "type": "paragraph",
+          "content": "接下来官方会继续逐步扩展 SDR 覆盖范围，但会先持续监控数据，确认玩家在获得更好保护的同时不会受到丢包和延迟等副作用影响。不同地区的网络表现差异较大，因此仍会持续进行 A/B 测试。当前测试结果显示，亚洲与澳洲地区的表现最为稳定，官方也已在这些地区的部分大师以下排位和非排位比赛中开始扩大覆盖比例。"
+        }
+      ]
+    },
+    {
+      "heading": "平衡性更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "进化采集器（此前热修）"
+        },
+        {
+          "type": "list",
+          "content": [
+            "刷新数量提高到 10 至 11 个，视地图大小而定，原为 7 至 8 个",
+            "降低同一 POI 内同时刷新多个进化采集器的概率"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "缩圈漏洞防范"
+        },
+        {
+          "type": "list",
+          "content": [
+            "已进行调整，以防止系统被恶意利用"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "传奇更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "突击型职业"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Stowed Reload：收起武器后的自动装填时间提高到 4 秒，原为 2 秒"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "艾许"
+        },
+        {
+          "type": "list",
+          "content": [
+            "冲刺冷却提高到 12 秒，原为 8 秒",
+            "若冲刺方向与当前移动方向不一致，冲刺推进力会降低",
+            "Arc Snare 更容易被破坏，基础持续时间缩短到 6 秒，原为 8 秒",
+            "Arc Snare 牵引力度下降，且不再对护盾造成额外伤害",
+            "2 级升级移除 Dual Breach 与 Marked for Death",
+            "新增 Longer Reach：Phase Breach 距离提升 25 米",
+            "新增 Ultimate Cooldown：Phase Breach 冷却减少 30 秒"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "腐蚀"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Nox 毒气伤害改为每 2 跳才提升一次，升幅更慢",
+            "移除受毒气伤害时的准星抖动"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "疯玛吉"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Riot Drill 的发射动画提速 10%，松开按钮后会更快出手",
+            "Wrecking Ball 投掷动画提速 25%，跨越与绕过障碍物的表现更稳定",
+            "爆炸伤害提高至最多 25，原为最多 20",
+            "终极持续时间缩短为 7 秒，原为 10 秒",
+            "加速垫移速加成持续 3.5 秒，原为 2 秒",
+            "加速垫现在会提供“强化”增益，但不会与本身拥有强化的传奇叠加",
+            "加速垫存在时间缩短至 20 秒，原为 60 秒",
+            "玩家踩过后，会对该玩家进入 6 秒停用状态",
+            "加速垫不再由最终爆炸额外生成",
+            "移除 Shots Shots Shots 升级",
+            "新增 Gunrunning：被动移速提升现在也适用于冲锋枪与手枪",
+            "Fire Ball 现在会沿地面留下岩浆区域，且疯玛吉受到所有火焰伤害减少 50%"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "希尔"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Long View 升级改为并入基础技能，Passive 与 Tactical 距离提高到 75 米，原为 50 米",
+            "心跳提示改为统一节奏，不再因不同敌人而变化",
+            "UI 和音频会明确提示心跳扫描触发时机",
+            "方向波形会根据敌人与准星所指距离远近改变高低",
+            "整体 UI 可视性提升",
+            "战术技能施放时若持枪，收枪时间减少 60%",
+            "战术命中敌人后，希尔获得 4 秒速度加成",
+            "扫描时长提高到 4 秒，减速时长提高到 1 秒，但沉默时长降至 2.5 秒",
+            "战术冷却缩短到 20 秒，原为 30 秒",
+            "扫描生效前延迟提高到 1 秒，原为 0.7 秒",
+            "展示技能 Exhibit 的投掷距离提升到约 50 米，范围扩大到 38 米",
+            "站在任意 Exhibit 中时，希尔获得增强跳跃与开镜悬停能力",
+            "Exhibit 中心 15 米范围内新增敌方可见威胁提示",
+            "移除 Artist’s Reach 与 Ultimate Cooldown 升级",
+            "新增 Lasting Beats：离开展示穹顶的敌人位置会持续显示 5 秒",
+            "新增 Home Base：站在 Exhibit 内时，战术技能充能速度提高 4 倍",
+            "移除 Long View 升级，效果已并入基础技能",
+            "新增 Energizing Focus：战术命中敌人时回复 25 点护盾",
+            "Split Focus 不再带有负面效果"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Sparrow"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Tracker Dart 追踪时间缩短到 12 秒，原为 15 秒",
+            "瞄准时新增特效，可提示飞镖是否会触发附近敌方扫描信标",
+            "Stinger Bolt 血量下降到 400，原为 550",
+            "Stinger Bolt 的脉冲现在也会减速 Sparrow 与其队友，不再只影响敌人",
+            "调整终极瞄准动画，使飞行轨迹更易判断",
+            "2 级升级 Extra Traps 现在只额外提供 1 个世界陷阱，原为 2 个"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "战利品与配件",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "金色弹匣"
+        },
+        {
+          "type": "list",
+          "content": [
+            "收起武器后的自动装填时间提高到 4 秒，原为 2 秒"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "锁定式 Hop-Up"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Accelerator 解锁点数提高到 300，原为 150；从和平捍卫者、L-STAR、Alternator 移除，加入 G7 Scout、CAR 和平行步枪",
+            "Graffiti Mod 解锁点数提高到 425，原为 300；新增适配獒犬",
+            "Gun Shield Generator 解锁点数提高到 375，原为 250",
+            "Selectfire Receiver 解锁点数提高到 375，原为 250",
+            "Skull Piercer 解锁点数提高到 600，原为 400",
+            "Turbocharger 需要 600 点解锁，适配 Havoc 与 Devotion"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "开发团队表示，他们对锁定式 Hop-Up 改变对局节奏的方式整体满意，但上线初始数值偏于宽松，使得武器强度上线得比预期更早。本次提高解锁需求，目的是压低前期爆发，同时保留中后期的稳定性。"
+        },
+        {
+          "type": "paragraph",
+          "content": "战利品"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Amps（此前热修）：开局刷新率降低，并在敌方生命条上新增所持 Amp 图标"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "武器更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "Devotion：移除在装上紫色枪口、弹匣和枪托后自动获得 Turbo 效果的 perk",
+            "波塞克复合弓：满弓时间缩短到 0.35 秒，原为 0.45 秒；腰射扩散优化",
+            "RE-45 Burst（此前热修）：投射物尺寸缩小到与其他手枪一致，所有等级弹匣容量减少 3 发，水平与垂直后坐力提高",
+            "辅助手枪：伤害提高到 50，原为 48；Skullpiercer 爆头倍率降到 1.92，原为 2.0，Skullpiercer 爆头总伤害仍维持 96",
+            "獒犬：拔枪后开火前延迟增加，以更贴近其他霰弹枪",
+            "和平捍卫者：蓄力状态下的弹丸散布范围扩大"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "地图与模式",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "地图轮换"
+        },
+        {
+          "type": "list",
+          "content": [
+            "非排位与排位：E-District、Kings Canyon、Olympus",
+            "Mixtape TDM：Fragment、Skull Town、Zeus Station、Estates",
+            "Mixtape Control：Hammond Labs、Caustic Treatment、Barometer、Lava Siphon",
+            "Mixtape Gun Run：Wattson’s Pylon、Monument、Estates、Skull Town"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "双排"
+        },
+        {
+          "type": "list",
+          "content": [
+            "队伍数减少到 15，原为 30",
+            "玩家总数减少到 30，原为 60",
+            "毒圈开局即部分闭合，整体时序调整",
+            "运输船起点移动到安全区边缘，类似 Wildcard",
+            "整场比赛只关闭 4 次毒圈"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Wildcard 三排：狂野钢铁（2025 年 9 月 16 日至 9 月 30 日）"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Kings Canyon Wildcard",
+            "兰伯特补给仓：神话级平行步枪",
+            "爆炸类装备刷新率提高",
+            "战利品中新增 EPG 概率刷新",
+            "复制器内加入 8 张全新 Wild Card"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Wildcard 三排：核心版（2025 年 9 月 30 日至 10 月 14 日）"
+        }
+      ]
+    },
+    {
+      "heading": "排位、修复与体验优化",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "排位天梯计分调整"
+        },
+        {
+          "type": "list",
+          "content": [
+            "入场费用不再计入排位天梯评分"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者表示，此举是为了让同水平玩家之间的比较更加公平，让天梯 RP 只由比赛表现决定，而不再被不同段位的入场费用影响。"
+        },
+        {
+          "type": "paragraph",
+          "content": "Bug 修复"
+        },
+        {
+          "type": "list",
+          "content": [
+            "丢弃无限弹药 Amp 后，弹药提示不再异常",
+            "放大地图时的标点精度提高",
+            "修复部分锁定式 Hop-Up Graffiti Mod 名称错误的文本",
+            "Ballistic 升级后在 Sling 与主武器间切换时，点数不再偶发重置",
+            "射击场复活后，锁定式 Hop-Up 再次按预期工作",
+            "击倒护盾被摧毁时，不再错误显示“无弹药”提示",
+            "Wildcard 模式中玩家重生后会再次正确持有主武器",
+            "Switch 2 动态模式不再偶发切换 Joy-Con 模式"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "传奇相关修复"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Alter：“Celestial Essence”皮肤特效恢复正常",
+            "腐蚀：修复一个可让其更快累积研究点数的漏洞（此前热修）",
+            "疯玛吉：战术技能不再比预期最多少造成 33% 伤害；破坏球不再被友方幻象诱饵反弹回来",
+            "兰伯特：强化掩体的六边形特效恢复显示"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "生活质量改进"
+        },
+        {
+          "type": "list",
+          "content": [
+            "商店新增“For You”个性化推荐栏，每周轮换",
+            "排位 Drop Zones 移除 Jumpmaster，队友改为各自独立跳伞",
+            "Wildcard 重生提示体积缩小，减少屏幕占用",
+            "移除单个队友死亡时的重生提示",
+            "死亡横幅文案调整为“最后存活的传奇”"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "引擎更新与公告",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "Shader 数量减少近 50%，改善整体性能与启动速度，尤其是 PC 端",
+            "粒子与特效渲染改用 bindless resources，可在高强度战斗与大量技能触发时降低 CPU 占用",
+            "PC：修复玩家在显卡驱动显示为 Unknown 时开机即崩溃的问题，但未知驱动仍可能引发其他问题"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "《Apex 英雄》现已在 PlayStation 4、PlayStation 5、Xbox One、Xbox Series X|S、Nintendo Switch、Nintendo Switch 2，以及 PC 平台（EA app、Epic 和 Steam）免费推出。欢迎在 Twitter、Instagram 和 TikTok 关注《Apex 英雄》，订阅我们的 YouTube 频道，并访问官方论坛。"
+        },
+        {
+          "type": "paragraph",
+          "content": "立即订阅新闻通讯，即可通过电子邮件收到《Apex 英雄》的最新资讯、更新、幕后内容和独家优惠，以及其他 EA 新闻、产品、活动与促销信息。我们会持续听取社区反馈，并在实时服务与内容开发过程中对本公告进行调整。更多信息请参阅 EA 在线服务更新页面。部分平台可能需要对应的平台账号与订阅服务（需单独购买），同时需要持续联网和 EA 账号，且受年龄限制，游戏内含付费内容。"
+        }
+      ]
+    }
+  ],
+  "translation": {
+    "translated_by": "codex",
+    "glossary_source": "F:/Codex/termbase/data/rsx-termbase.json"
+  }
+}

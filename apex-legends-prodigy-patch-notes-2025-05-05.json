@@ -1,0 +1,291 @@
+{
+  "id": "apex-legends-prodigy-patch-notes-2025-05-05-zh-cn-full",
+  "source_url": "https://www.ea.com/games/apex-legends/apex-legends/news/prodigy-patch-notes",
+  "title": "《Apex 英雄》“神童”版本更新说明",
+  "published_at": "2025-05-05",
+  "lang": "zh-CN",
+  "version": "神童",
+  "summary": "在“神童”赛季正式上线前，官方公布了完整补丁说明，涵盖反作弊、音频与匹配、竞技场回归、排位改动，以及大量英雄、武器和系统平衡调整。",
+  "cover_image": "https://drop-assets.ea.com/images/5xrAVWiYu4AQWgBaN7co6H/9d6e5306bccd7ac01f072b3bbfe70a97/Copy_of_Apex_S25_Primary_Art_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.29322916666666665,yPosition=0.293287037037037",
+  "tags": [
+    "版本更新",
+    "赛季更新",
+    "平衡调整"
+  ],
+  "sections": [
+    {
+      "heading": "赛季概览",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/5xrAVWiYu4AQWgBaN7co6H/9d6e5306bccd7ac01f072b3bbfe70a97/Copy_of_Apex_S25_Primary_Art_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.29322916666666665,yPosition=0.293287037037037",
+          "alt": "《Apex 英雄》“神童”赛季主视觉",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "“神童”赛季围绕新英雄 Sparrow、竞技场回归、排位系统重构，以及活动“设计致死”展开。除了新赛季常规的英雄与武器平衡外，这次更新还对反作弊、音频诊断、图形底层和机器人模式做了较大范围的迭代。"
+        },
+        {
+          "type": "paragraph",
+          "content": "如果你想在赛季开局就快速掌握重点，这份补丁最值得关注的内容包括：竞技场分阶段回归、排位初始定级改为基于隐藏技术值、Bocek 回归地面池并获得爆炸箭机制、探路者与沃特森等多名传奇重做或强化。"
+        }
+      ]
+    },
+    {
+      "heading": "反作弊、音频与匹配",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "官方表示，过去几个赛季持续在做迭代式反作弊更新，重点是更快地发现外挂、压缩组队滥用空间、减少机器人账号活动，并让举报后的处理反馈更及时地回到玩家端。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "PC 端新增音频诊断能力，在出现异常音频丢失后，系统可协助上传匿名日志，帮助官方定位问题。",
+            "排位匹配继续以更高质量的对局为目标，官方会通过地区人口管理来降低极端混池情况。",
+            "铂金、钻石和大师段位的等待时间可能略有增加，以换取更稳定的技术水平分层。",
+            "官方明确表示，中后赛季的排位技能混池仍是持续优化重点。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "设计致死活动与外观系统",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "“设计致死”收藏活动将于 2025 年 5 月 6 日至 6 月 24 日开启。活动期间，玩家可通过活动包和进度奖励获取限定外观，其中包括探路者“Belva Bruisers”和 G7 Scout 反应式武器皮肤“Crested Vanguard”。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "每个“设计致死”活动包包含 1 个活动道具和 2 个常规道具。",
+            "活动收藏品不会重复出现。",
+            "活动奖励路径会随挑战推进逐步解锁。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "异域商店现已轮换加入第 11 至第 21 赛季的 100 级反应式通行证武器皮肤，可使用异域碎片购买。与此同时，传奇储物柜也进一步扩展，收录范围覆盖到 Upheaval 赛季以前的更多旧传奇与武器外观。"
+        },
+        {
+          "type": "paragraph",
+          "content": "另外，传奇菜单新增了专门的“Animations”分页，便于查看和切换传奇选择动画。"
+        }
+      ]
+    },
+    {
+      "heading": "平衡更新总览",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "补给仓轮换：Bocek 与 Havoc 回归地面池，Triple Take 进入补给仓。",
+            "金色武器轮换：Bocek、Hemlok、Longbow、Mastiff、Wingman。",
+            "武器库系统增加新语音提示，并对重置前后的弹药、附件和刷新逻辑做了细化调整。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "在武器库重置前，轻型、重型和能量武器库会提供 2 组弹药，弹药刷新时间为 20 秒；重置后，武器强化会至少给予 2 个附件，弹药刷新缩短到 10 秒，并直接给满一整组。"
+        }
+      ]
+    },
+    {
+      "heading": "传奇更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "赛季核心新英雄为 Sparrow。他拥有二段跳被动、可侦测敌踪的战术技能 Tracker Dart，以及会在区域内造成伤害与减速的终极技能 Stinger Bolt。升级项围绕陷阱强化、追猎能力、替代发射模式与续航能力展开。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "突击职业 Battle Surge：移除击破护甲时的扫描效果；生命条显示延长至 3 秒；速度提升仅在冲刺时生效。",
+            "游击职业 Charged Knock：移除击倒后返还战术技能充能的效果。",
+            "Ash：移除 Predator’s Pursuit 对死亡箱的小地图标记；终极技能飞行时间增加。",
+            "Conduit：战术治疗每跳提升为 4（此前为 3）。",
+            "Mirage：终极技能诱饵数量提升为 6（此前为 5）。",
+            "Seer：战术命中启动时间缩短到 0.8 秒，收束时间为 0.9 秒。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "探路者是这次改动最大的老牌传奇之一。抓钩冷却改为 10 到 30 秒动态区间；滑索枪整合了 Zipline Zen，并自带 50% 伤害减免；新的 3 级升级项允许他获得第二条滑索或第二次抓钩，大幅提升机动与持续开团能力。"
+        }
+      ]
+    },
+    {
+      "heading": "弹药、配件与 Hop-Up",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "新增金色狙击枪托，可供狙击枪与射手武器使用，并在举枪时取消移动惩罚。",
+            "射手专用狙击枪托提升开镜、收镜和举枪速度。",
+            "Boosted Loader 移出地面池，Skullpiercer 回归地面池，适用于 30-30、Longbow 和 Wingman。",
+            "Gun Shield Generator 不再适用于 Devotion 与 L-STAR，改为加入 Hemlok。",
+            "Accelerator 从 P2020、Volt、Wingman 移除，加入 Bocek、Devotion、Mastiff 和 Sentinel。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "官方还对 Accelerator 的收益做了热修：通过击倒和助攻获得的终极技能充能，从 30% 下调到 20%。"
+        }
+      ]
+    },
+    {
+      "heading": "武器更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "Havoc 回归地面池后，伤害降至 19，腰射扩散增大，后坐增强，并移除 Selectfire。",
+            "Hemlok 热修：爆头伤害 +2，基础与扩容弹匣容量全面上调。",
+            "Devotion 获得新特性：装备紫枪管、枪托与弹匣后进入类似涡轮增压状态，起转更快；高阶枪管与枪托收益同步提高；紫弹匣容量增至 52。",
+            "L-STAR 热修：后坐摆动加大，弹体体积缩小。",
+            "P2020 热修：伤害从 25 下调到 24，所有弹匣容量下调。",
+            "Wingman 略微提高射速，并开始支持激光瞄具。",
+            "EVA-8 基础与所有枪栓等级的射速都显著提高，但单发弹丸伤害从 8 降到 6。",
+            "所有冲锋枪热修：爆头伤害统一 +1；Volt 的腰射表现同步规范并优化。",
+            "Charge Rifle、Longbow、Sentinel 的肢体伤害倍率分别提高到 0.9、0.8、0.9。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Bocek 的改动尤其大：它现已回归地面池并加入狙击武器库，支持狙击枪托，拥有独立的 40 支箭矢储备，射出的箭可以回收。满蓄力伤害降至 55，射速更慢，Shatter Caps 被移除，但新增了与破片手雷联动的爆炸箭机制。爆炸箭命中伤害为 40，爆头可达 64，并会在约 2 秒后于 5 米范围内引发额外 25 点爆炸伤害。"
+        },
+        {
+          "type": "paragraph",
+          "content": "进入补给仓的 Triple Take 获得了更快射速、更快聚能和 Gun Shield Generator；伤害也从 22 提升到 23。"
+        }
+      ]
+    },
+    {
+      "heading": "地图与模式",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "公开赛与排位地图轮换：Olympus、Storm Point、World’s Edge。",
+            "Mixtape（2025 年 5 月 6 日至 6 月 23 日）：Control 为 Lava Siphon、Thunderdome、Labs、Production Yard；Gun Run 为 Estates、Monument、Thunderdome、Skull Town；TDM 为 Thunderdome、Skull Town、Estates、Fragment。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "竞技场在 5 月 6 日至 5 月 19 日以经典 3v3 回归，首支赢下 3 个回合的队伍获胜，地图为 Overflow、Drop-Off 和 Encore，并同步补入竞技场停更期间新加入的武器与传奇。该阶段不启用传奇升级与 Perk，仍然是纯粹的买枪对抗。"
+        },
+        {
+          "type": "paragraph",
+          "content": "5 月 20 日至 6 月 23 日，竞技场进入第二阶段刷新版。该阶段更强调纯火力博弈：所有玩家每回合免费获得所需治疗物资，地图移除补给箱，每把武器只能购买一次，第 2 与第 4 回合会有折扣武器，所有传奇的终极技能统一拥有 1 回合冷却，商店经济与毒圈节奏也被重新调整。补给仓内容进一步强化，会提供护甲、特定强化套件与少量惊喜武器。"
+        },
+        {
+          "type": "paragraph",
+          "content": "Bot Royale 也将在赛季初不久后加入难度选择器，队长可在对局中通过库存或菜单调整 Apex Bots 难度。默认的“Auto”选项会根据系统对玩家水平的估计进行自适应调整。"
+        }
+      ]
+    },
+    {
+      "heading": "排位更新",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/3nY19hMAJ2bi5v9dgTnmmn/93d2971a52e35855d97bd3728e0890e9/Image20250502111021.png?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "排位天梯界面预览图",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "赛季初始定级改为依据玩家在过往排位赛季中的隐藏技术值来决定起始段位与小段。",
+            "若排位数据不足，则会参考非排位三人组的隐藏技术值完成初始安置。",
+            "移除“跳过一个排位赛季就回到青铜 IV”的旧规则，今后初始安置统一以技术值为核心。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "本分段稍后还会推出 Ranked Ladders。开启后，所有排位玩家都将在个人技术值基础上参与额外排行榜竞争，以争取奖励。系统会统计你在天梯期间最佳的 10 场 RP 成绩；只有完成 10 场排位后才会正式上榜并具备领奖资格。"
+        },
+        {
+          "type": "paragraph",
+          "content": "同一分段期间还会逐步上线 Ranked Challenges。赛季奖励将要求玩家先完成最低排位场次；此外，若玩家在同一分段中多次成为冠军，还可在下一分段临时获得 Ladder Champion 跳伞尾焰，若后续未再次完成条件，则会在分段结束后失效。"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明指出，这套改动的核心目标仍是让高水平玩家更难进入低水平对局，并让玩家真实技术值与 RP 表现更加接近，从而稳定每个排位赛季初期的对局质量。"
+        }
+      ]
+    },
+    {
+      "heading": "问题修复与体验优化",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "修复被封住的门偶尔会朝玩家方向错误打开的问题。",
+            "修复部分兴趣点显示错误武器库类别的问题。",
+            "修复 Control 升级武器后偶尔被错误替换的问题。",
+            "修复空投运输船倒计时结束过早的问题。",
+            "修复 G7 Scout 反应式皮肤在 2x-4x 镜上的显示异常。",
+            "修复金色补给箱未正常生成战利品的问题。",
+            "修复翻越后立即冲刺导致速度表现不一致的问题。",
+            "修复 Storm Point 毒圈特效偶尔消失的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "Alter：修复使用 Void Siphon 后相位状态下偶尔仍可开枪的问题；修复 Void Nexus 召回死亡敌人时仍生成传送门的问题。",
+            "Conduit：修复队友在特殊状态断线时，被动技能可能导致崩溃的问题。",
+            "Lifeline：修复 D.O.C. 在此前热修后部署状态异常的问题。",
+            "Loba：修复 Heat Shade 皮肤远距离可见度过高的问题。",
+            "Mirage：修复治疗时隐形偶尔提前结束，以及立即救人时大招隐身提前结束的问题。",
+            "Wattson：修复被动未正常回复控制职业额外护盾的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "训练场加入新的彩蛋互动。",
+            "传奇储物柜部分页面新增额外信息面板与排序功能，支持默认、稀有度、已拥有和字母排序。",
+            "比赛总结页“进行中与已完成”挑战显示上限从 5 提升到 15。",
+            "减弱加速武器屏幕特效的尺寸与出现频率，降低遮挡感。",
+            "略微缩短 Sentinel 蓄力后无法开镜的时间。",
+            "Lifeline 的 D.O.C. 传送轨迹视觉强度下调，减少画面杂乱。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复旁观时音量规则偶尔错误套用到正常对局的问题。",
+            "修复位于上坡地形时，声音偶尔被短暂错误遮蔽的问题。",
+            "降低玩家自身听到的探路者抓钩音量，但敌方音量不变。",
+            "让亡灵贴墙移动的脚步声更清晰。",
+            "略微降低远距离 Thermite 与地平线黑洞的音量压迫感。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "图形层面，Storm Point 已迁移到更现代的 GPU 驱动地形渲染系统，在不改变地图内容的前提下改善 CPU 渲染时间、修复多处光照伪影，并配合虚拟纹理带来更高材质精度。Xbox One 与 PlayStation 4 也已迁移到统一的 RHI 渲染硬件接口，以共享与 PC、现世代主机一致的多线程渲染架构。PC 端则进一步提升了纹理流送开启时的帧率稳定性，并修复了部分黑屏、卡顿和错误 GPU 时序导致的分辨率模糊问题。"
+        }
+      ]
+    }
+  ],
+  "translation": {
+    "translated_by": "codex",
+    "glossary_source": "F:/Codex/termbase/data/rsx-termbase.json"
+  }
+}

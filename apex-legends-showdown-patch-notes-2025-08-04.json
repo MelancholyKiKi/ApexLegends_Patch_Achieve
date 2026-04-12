@@ -1,0 +1,350 @@
+{
+  "id": "apex-legends-showdown-patch-notes-2025-08-04-zh-cn-full",
+  "source_url": "https://www.ea.com/games/apex-legends/apex-legends/news/showdown-patch-notes",
+  "title": "《Apex 英雄》“摊牌”版本更新说明",
+  "published_at": "2025-08-04",
+  "lang": "zh-CN",
+  "version": "摊牌",
+  "summary": "“摊牌”赛季带来腐蚀与班加罗尔加强、排位系统更新、全新 Drop Zones、Auras、Accolades，以及多项战斗与装备改动。",
+  "cover_image": "https://drop-assets.ea.com/images/521yDIeYuc1ZgrWKa3Ldg9/5c8c793dc45004395db3dc4de6119b10/Apex_S26_Primary_Art_Showdown_3840x2160.jpg?im=AspectCrop=(16,9),xPosition=0.234375,yPosition=0.4337962962962963",
+  "tags": [
+    "版本更新",
+    "平衡调整",
+    "赛季更新"
+  ],
+  "sections": [
+    {
+      "heading": "赛季概览",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/79qsAuQxckxdGVAemOBJ0t/3a0016e44b03858a03cbfc94b7978e4f/Apex-S26-Gameplay-Trailer-Thumbnail.jpg?im=AspectCrop=%2816,9%29,xPosition=0.75,yPosition=0.75",
+          "alt": "“摊牌”赛季实机预告封面图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "“摊牌”赛季围绕更明确的战斗回报与更公平的排位开局展开。除 Wildcard 新玩法外，官方还重点强化了控制型传奇、推出新掉落机制 Drop Zones、上线全新 Auras 与 Accolades，并重做了多项排位与装备系统。"
+        }
+      ]
+    },
+    {
+      "heading": "Wildcard 与传奇更新",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/2JYgGZ3wpVJ1luvevi4lan/fd74808bd5bffaed108e12dbcb2679f3/APEX_Legends_S26_Screenshots_s26_Launch_Shot_WildcardOTMapToys_A_v01a__1_.png?im=AspectCrop=%2816,9%29,xPosition=0.6486979166666667,yPosition=0.47962962962962963",
+          "alt": "动力小子在新版 Wildcard 模式中滑行。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "本赛季除了部分控制型职业通用强化外，还重点回调了两位“烟雾系”传奇：腐蚀与班加罗尔。前者获得更致命、更持久的毒气控制能力，后者则拥有更灵活的突破能力与更完整的升级树。"
+        },
+        {
+          "type": "paragraph",
+          "content": "官方也同步强调，Wildcard 的详细玩法会单独放在专题博文中说明，建议玩家在投入对局前先了解关键卡组与机制。"
+        }
+      ]
+    },
+    {
+      "heading": "核心新内容",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "Elite Weapons：把弹道私人藏品中的特殊枪型带入常规对局。首个赛季武器为 RE-45: Burst，使用能量弹药并带有预热后连续三连发机制。",
+            "Legend Amps：在匹配与排位 BR 中可获得的强力被动强化，共 5 种类型，可根据队伍配置、武器与局势自由搭配。",
+            "Locked Hop-Ups：Hop-Up 不再以地面战利品形式出现，而是预装在武器上，需通过造成伤害、军械库升级或拾取 Hop-Up Booster 解锁。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "排位系统更新",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/7sp9RZy4ujRj3HB5Pq7iLh/d78b5eda28978770b3f5380bbdb949dd/DropZones-Final-Promo-Shot.png?im=AspectCrop=%2816,9%29,xPosition=0.7885416666666667,yPosition=0.38333333333333336",
+          "alt": "Storm Point 上分配式 Drop Zones 示意图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "本赛季排位围绕“更快进入比赛、更公平比较表现”展开。新增 Drop Zones，队伍会在开局前被系统分配到不同 POI，避免大半个大厅扎堆同一落点。图中会提前展示你的分配区域，传奇选择后，小队会经由专属运输船投放到指定区域，并标记附近潜在威胁。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Heat Shields 在排位中禁用，鼓励更积极的圈边站位而非长时间拖圈。",
+            "Challenger Bonus 重做：击败高于自己段位的敌人会获得额外 KP 加成，差 1 个大段 +15%，差 2 个 +25%，差 3 个 +35%，差 4 个及以上 +50%。",
+            "入场费调整：青铜 10 RP（原 0），黄金 38 RP（原 35），白金 48 RP（原 45）。",
+            "击杀分调整：冠军 20 RP（原 26），其后名次分梯度下调，16 至 20 名为 4 RP。",
+            "排名分调整：第 2 名 100 RP（原 95），第 3 名 75 RP（原 70），第 6 名 40 RP（原 30）。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Auras、Accolades 与奖励流程",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/7LRnkhUdgg1vJqYFNpOXqr/7fb0241967107f912b904f8da1fe3418/APEX_Legends_S26_Screenshots_s26_Launch_Shot_RankedRewarcds_B_v01__1_.png?im=AspectCrop=%2816,9%29,xPosition=0.43723958333333335,yPosition=0.5254629629629629",
+          "alt": "大师与猎杀者 Aura 展示图。",
+          "source": "official"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/1gOTEgWszboLPMGVxHtMjz/2606a1ffb90cda0dabe0372ffd6acad2/vlcsnap-2025-07-25-11h51m08s988.png?im=AspectCrop=%2816,9%29,xPosition=0.865625,yPosition=0.44907407407407407",
+          "alt": "比赛中解锁 Accolade 的提示画面。",
+          "source": "official"
+        },
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/23IdlSyQ4Um3jTx5GEmN4H/ef7261242cf13360e93283338262950b/Screenshot_2025-08-01_170251.png?im=AspectCrop=%2816,9%29,xPosition=0.5276174773289365,yPosition=0.5276013678553981",
+          "alt": "全新排位与奖励结算界面预览图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Auras 是本赛季加入的新外观类型，会在大厅、传奇选择界面、领奖台时刻、跳伞、第三人称动作、救援和处决等场景中显示。拥有排位资格的玩家在“摊牌”上线后登录，即可获得会随排位段位动态变化的“Ascension Crest” Aura。"
+        },
+        {
+          "type": "paragraph",
+          "content": "Accolades 用于表彰比赛中那些过去不容易被记录的高光时刻，例如双杀、替队友挡伤害等。它们可在匹配、排位、Wildcard 与 Mixtape 中分别累计，每个称号最多有 4 个等级，并可提供经验值奖励。每日通过 Accolades 获得的 XP 上限为 2200。"
+        },
+        {
+          "type": "paragraph",
+          "content": "挑战系统也进行了统一化更新。过去很多要求特定模式或双条件完成的挑战，现在都改为全模式通用，以便玩家用自己喜欢的玩法推进 Battle Pass。为平衡完成速度，部分目标数值提高，同时也为某些模式提供了额外进度倍率。"
+        },
+        {
+          "type": "paragraph",
+          "content": "另外，奖励发放界面也被重做。现在玩家可以在一页中看到所有奖励、奖励来源和详细说明，减少过去大量弹窗造成的信息混乱。"
+        }
+      ]
+    },
+    {
+      "heading": "Nintendo Switch 2 支持",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "《Apex 英雄》现已可在 Nintendo Switch 2 下载。",
+            "在 2025 年 9 月 16 日前于 Switch 或 Switch 2 登录游戏，可自动获得探路者皮肤“P.A.T.H.”。",
+            "游戏支持最高 60 FPS，具体取决于显示器与硬件能力。",
+            "首次登录时会跳转至 eShop 下载 Switch 2 版本，完成后可删除旧版 Nintendo Switch 客户端。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "平衡更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "空投轮换：和平捍卫者回归地面，双持 P2020 进入空投。",
+            "金色武器轮换：EVA-8、赫姆洛克、RE-45: Burst、哨兵、辅助手枪。",
+            "进化采集器奖励提高到 425 EVO（原 350），刷新点位大改，保证更靠近地图地理中心、远离 POI 核心，刷新总数下调至 8 或 9 个。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "玩法与战利品更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Legend Amps"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Infinite Ammo Amp：非空投武器获得无限弹药，但会暂时锁住两个背包栏位。",
+            "Bottomless Batteries Amp：使用电池时不消耗电池，但需要背包中至少有 2 个电池才能激活。",
+            "Over Armor Amp：额外获得 25 点护盾上限，可与 Ring Expert 叠加，但总护盾不超过 125。",
+            "Heal Overflow Amp：使用电池或针后，会在一段时间内将对应血条完全回满；受伤会中断该过程。",
+            "Power Booster Amp：降低战术与终极冷却，并在击倒敌人时刷新一次战术技能。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Locked Hop-Ups 与补给箱"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Hop-Up 全面移出地面战利品，改为武器预装但锁定，需要通过伤害、军械库或 Hop-Up Booster 解锁。",
+            "白、蓝、紫预装武器不带 Locked Hop-Ups；金色和空投武器则默认已解锁。",
+            "Hop-Up Booster 新增，仅在武器补给箱与传说补给箱中刷新，拾取可直接获得 100 点解锁点数。",
+            "头盔方面，金色与神话头盔从地面战利品中移除。",
+            "World’s Edge 的 Big Maude 自动售货机不再提供彩弹武器，改为提供蓝紫预装武器，解锁时间缩短 2 秒。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "补给箱调整"
+        },
+        {
+          "type": "list",
+          "content": [
+            "扩展补给箱上层内容现在会给所有人掉落支援道具，且重置前有小概率刷出 Amp 或终极加速剂，重置后为必出。",
+            "武器补给箱上层内容现在会给所有人掉落突击道具，重置前小概率刷出 Amp 或 Hop-Up Booster，重置后若队友需要则必出。",
+            "传说补给箱现在也会加入 Amp 与 Hop-Up Booster。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "传奇改动",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "控制型职业"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Zone Overcharge：现在在安全区内会持续回复护盾，但受伤后会停止 6 秒。",
+            "Ring Consoles：扫描过环形控制台后，玩家可生成更高的自定义 EVAC。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "班加罗尔"
+        },
+        {
+          "type": "list",
+          "content": [
+            "被动 Double Time 移速提高 5%。",
+            "Smoke Launcher 罐体现在可穿过门，弹速提高到 2900（原 2500），掏出时间降至 0.25（原 0.35），冷却缩短到 30 秒（原 35），且烟雾变为“可反制”：在烟内或附近使用投掷物与技能可使其失效 5 秒。",
+            "Rolling Thunder 冷却缩短到 210 秒（原 270），发射动作动画缩短。",
+            "升级树重做：Electric Smoke 可让战术烟雾通电，对敌方终极造成 100 点伤害并摧毁战术；ECM Payload 让终极电化、额外多 10 点伤害并摧毁部署物；Medal of Honor 可加快救援并在奔向倒地队友时触发被动。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "腐蚀"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Nox Gas 伤害提高到 10 至 15（原 4 至 10），重新造成受击抖动，对毒雾中敌人隐藏腐蚀生命条，并让毒气内外可视性更高。",
+            "毒气新增威胁提示，会“压地”敌人，消耗其移动技能冷却并立刻拉低速度。",
+            "毒气也变为“可反制”，可被附近投掷物或技能暂时压制 5 秒。",
+            "被动重做为 Field Research：通过毒伤敌人、开启特殊死亡箱、扫描圈控台获得研究点，每 100 点获得 1 个升级点，最多额外得到 2 点，因此可同时解锁 4 个升级。",
+            "毒气陷阱生命值提高到 225（原 150），可更早激活，投掷与收枪更快，触发半径增至 260，毒云半径增至 300，持续时间翻倍到 22 秒，但激活延迟提高到 0.8 秒，且在膨胀阶段可被子弹打掉。",
+            "终极冷却缩短到 2 分钟（原 3 分钟），投掷速度更快，持续时间提高到 20 秒。",
+            "升级树中新增 Extra Traps、Gas Fighter 与 Particle Diffuser。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "配件与武器改动",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "Accelerator：150 点解锁，适用于和平捍卫者、L-STAR、Alternator；击倒后终极充能提升到 30%，助攻窗口缩短到 3 秒。",
+            "Graffiti Mod：300 点解锁，适用于 Volt、Spitfire、EVA-8，提升手感、略增弹匣并附带彩弹弹道效果。",
+            "Gun Shield Generator：250 点解锁，适用于赫姆洛克、R-301、Rampage。",
+            "Selectfire Receiver：250 点解锁，适用于充能步枪与 Prowler。",
+            "Skull Piercer：400 点解锁，适用于辅助手枪、长弓与 30-30。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "LMG：Devotion、Spitfire、Rampage 的反向腰射扩散增大，以削弱近距离压制能力。",
+            "双持 P2020 进入空投后伤害提高到 25、换弹更快、腰射更准，并加入 Kinetic Feeder。",
+            "RE-45 Burst 加入地面战利品，也会出现在能量军械库；RE-45 Auto 从地面移除。",
+            "EVA-8（此前热修）单弹丸伤害提高到 7，射速下调，紫金栓配装与其他霰弹枪统一。",
+            "莫桑比克弹丸散布略收紧，单双持射速均提高。",
+            "和平捍卫者回到地面后弹匣提高到 6 发，但蓄力时间、拉栓时间与散布都增加，同时不再造成爆头伤害。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "地图、模式与系统",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "E-District 新增白天版本，整体光照重做、Lotus 加入轮换，并对商店门口和地形可读性进行调整。",
+            "地图轮换：匹配与排位为 Broken Moon、E-District、Storm Point；Mixtape 为 Thunderdome、Fragment、Skull Town 等轮换。",
+            "匹配模式中的 Wildcard 在 2025 年 8 月 5 日至 8 月 18 日启用 Second Chance Revivals、传奇叠加、自救空投包、简化战利品与 EVO Orbs 等；9 月 9 日至 15 日回归核心体验。",
+            "系统新增“Wallhacking / Impossible Gamesense”举报选项，方便玩家反馈可疑透视或不合理感知行为。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Bug 修复、生活质量、音画优化",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/2AKk29SapwEh2UMzIAwkIA/98b43dd7792640ab602b9b91c91762f1/VFX_BeforeAfter_Armor_Thumb.png?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "护甲命中特效新旧对比图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "修复 Ballistic 战术导致武器过热后，连发枪械仍持续播放射击音效的问题。",
+            "修复部分武器配件拾取行为不一致的问题。",
+            "修复预测毒圈伤害抖动的间歇性错误。",
+            "射击场修复多项可被同服务器其他玩家影响的问题。",
+            "复制器在一侧打印物品时，另一侧不再可继续制造。",
+            "Kings Canyon 毒圈视觉效果恢复稳定显示，Storm Point 北区高塔重新掉落狙击战利品。",
+            "Ziprail 连接时现在会有第一人称音效。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "沃特森：电门击杀的武器名称修正，Energized Healer 与 Ultimate Conductor 的相关问题修复，双开门电化逻辑修正。",
+            "班加罗尔：终极导弹不再被纽卡斯尔战术拦截后直接摧毁。",
+            "Bots 行为优化，命脉 Halo 敌方染色可读性提高，纽卡斯尔终极可覆盖 Alter 战术传送门。",
+            "复制器视觉改为蓝色；Vantage、Wattson 等多个视觉与逻辑问题修复。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "护甲命中特效烟雾减少 90%，碎片减少 40%；肉体命中特效残留血迹更少、持续更短。",
+            "屋顶脚步音遮挡降低，以提升清晰度；部分场景下降落音量降低；大厅中单人玩家也可看到麦克风监听设置。",
+            "图形方面新增更自然的色调映射，并提升 VFX 在不同自动曝光条件下的亮度一致性。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "《Apex 英雄》现已在 PlayStation 4、PlayStation 5、Xbox One、Xbox Series X|S、Nintendo Switch、Nintendo Switch 2，以及 PC 平台（EA app、Epic 和 Steam）免费推出。欢迎在 Twitter、Instagram 和 TikTok 关注《Apex 英雄》，订阅官方 YouTube 频道并访问论坛。"
+        }
+      ]
+    }
+  ],
+  "translation": {
+    "translated_by": "codex",
+    "glossary_source": "F:/Codex/termbase/data/rsx-termbase.json"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "id": "apex-legends-takeover-patch-notes-2025-02-10-zh-cn-full",
+  "source_url": "https://www.ea.com/games/apex-legends/apex-legends/news/takeover-patch-notes",
+  "title": "《Apex 英雄》“接管”版本更新说明",
+  "published_at": "2025-02-10",
+  "lang": "zh-CN",
+  "version": "接管",
+  "summary": "“接管”赛季围绕突击职业强化、Ash 与 Ballistic 重做、全武器伤害普涨、新武器库系统，以及头盔与护甲机制重构展开，是一次明显鼓励进攻节奏的赛季级更新。",
+  "cover_image": "https://drop-assets.ea.com/images/AGhhkfwxfr4ZK31ktBsBo/89c9e395bd6686c551fdabb43f2e7442/Apex-S24_feature-image-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.42552083333333335,yPosition=0.44907407407407407",
+  "tags": [
+    "版本更新",
+    "平衡调整",
+    "赛季更新"
+  ],
+  "sections": [
+    {
+      "heading": "赛季概览",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "“接管”是《Apex 英雄》第七年开局的进攻型赛季。官方把重点放在更快的击杀节奏、更多的主动开战能力，以及更低的视觉干扰上。两名长期处于边缘地位的突击传奇 Ash 与 Ballistic 获得大幅强化，整个突击职业也通过新 Perk 获得更强的持续作战与压制能力。"
+        },
+        {
+          "type": "paragraph",
+          "content": "与此同时，几乎所有武器都获得了不同程度的伤害加强；头盔与护甲逻辑被简化；新武器库系统让玩家更容易在地图上找到自己想要的枪和弹药。官方明确希望这次更新把“支援赛季”之后的环境，切换为一个更偏主动进攻、更快结束战斗的新 Meta。"
+        }
+      ]
+    },
+    {
+      "heading": "传奇强化与突击职业改版",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/7dTgvEVPSzTxo03NTtvDb4/ea5a34eae5c579b8cea24eb3121b898c/R5_S24_Launch_DuoASBL_v01.png",
+          "alt": "Ash、Ballistic 等传奇在“接管”赛季宣传图中登场",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "本赛季领衔改动的两名传奇是 Ash 和 Ballistic。Ash 的 Arc Snare 与 Phase Breach 都变得更稳定、更远、更快，同时新增被动 Predator’s Pursuit，让她能够在空中按跳跃键执行一次短距离冲刺。这让她在拉近距离、追击被束缚目标，或近距离对枪时都比以往更有压迫感。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Ash：移除扫描死亡箱找凶手的旧被动，但死亡箱仍会显示在地图与小地图上；新增空中短冲刺。",
+            "Ash：Arc Snare 改为在投射物命中点生成束缚点，而不是挂在目标当前位置；束缚更难被直接挣脱。",
+            "Ash：终极技能射程提升到 100 米，飞行更快，终点判定更可靠；新增最大射程视觉提示。",
+            "Ash 升级调整：Greedy Snare 移到 2 级；新增 Dual Breach 和 Ghost in the Machine 等偏机动与终极充能的升级项。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Ballistic 的强化同样非常彻底。Sling 武器升级能力和额外 Whistler 充能被并入基础套件，Sling 甚至现在可以携带补给仓武器，并在终极技能 Tempest 期间获得无限弹药。Whistler 现在基础拥有两发，过热反应时间延长，地面弹伤害翻倍。Tempest 还会为整队提供移速增益，显著提高开团能力。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Ballistic：Sling 随等级自动升级，并可携带补给仓武器。",
+            "Ballistic：Whistler 现在基础 2 发；过热触发反应时间延长到 1.2 秒；地面命中伤害提升到 20。",
+            "Ballistic：Tempest 会给小队提供移速加成。",
+            "Ballistic 升级调整：Killing Time 延长大招 15 秒；Extra Bullets 改为战术技能充能翻倍；Quiet Time 让过热同时附带 6 秒沉默。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "突击职业整体也迎来新 Perk 重构。Combat Reserve 现在整合了额外弹药、两格专属手雷栏，以及红色补给箱访问权；Stowed Reload 允许收起武器 2 秒后自动换弹；Battle Surge 会在打破敌方护甲时提供移速爆发、快速换弹，并高亮目标 4 秒。与之相对，支援职业移除了 Heal Expert，被官方明确削弱，以回归“复活专家”的身份定位。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Crypto：EMP 再次可以摧毁直布罗陀圆顶护盾。",
+            "Loba：终极技能初始充能回调回 50%。",
+            "Maggie：Wrecking Ball 再次能摧毁直布罗陀圆顶，并新增可破坏纽卡斯尔移动护盾。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "武器、护甲与枪口焰总改版",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/2RJioD1zrysw3of5DvVVFv/c4a0ed67a8d6b573c5158800628410c1/alt-4-person_image.jpg?im=AspectCrop=%2816,9%29,xPosition=0.5,yPosition=0.5",
+          "alt": "“接管”赛季枪口焰优化前后对比图",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "官方表示，过去多年武器基础伤害一直相对稳定，但也因此逐渐缺乏新鲜感。“接管”赛季通过几乎全武器伤害上调来压缩交战耗时，让玩家更快结束战斗、回到转点和应对第三队的博弈中。"
+        },
+        {
+          "type": "paragraph",
+          "content": "防具系统也被大幅精简。白、蓝、紫头盔全部移出战利品池，玩家也不再默认带白头盔。今后普通爆头减伤逻辑不再依赖低阶头盔，而是由新的金色与神话头盔承担更明确的战术定位。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "EVO 护甲通过升级最高只能到 3 级，也就是紫甲 100 护盾。",
+            "红甲不再能通过 EVO 升级获得；达到 3 级所需 EVO 提高到 1700。",
+            "金头盔重做为 Gold Armor Upgrade Helmet：小药效果翻倍，护甲固定为 100，但不提供爆头减伤。",
+            "新增 Mythic Armor Upgrade Helmet：护甲固定为 125，同样不提供爆头减伤，会出现在神话补给箱和后期空投中。",
+            "倒地后的爬行速度显著提高，无论是否举盾。",
+            "跳伞落地阶段现在可直接看到 POI 名称、资源等级以及武器库信息。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "枪口焰方面，官方对所有第一人称武器的开火特效进行了重做：视线中约 95% 的火花、烟雾、辉光等视觉噪声被压到更低的位置，枪口焰尺寸缩小，抛壳与残留烟尘也被清理，整体目标是明显降低对枪时的视觉遮挡。"
+        }
+      ]
+    },
+    {
+      "heading": "玩法与系统更新",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "“接管”赛季最重要的新玩法系统之一是 Arsenals（武器库）。这些固定刷新在各地图兴趣点内的站点，会在每场比赛随机指定一种弹药类型，并允许玩家稳定获取对应武器与弹药。武器库还配备强化终端，可以为对应武器直接补一个升级附件，若缺少瞄具也会补上。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "所有地图的各个 POI 都有固定武器库点位。",
+            "每局提供的弹药类型随机。",
+            "每个武器库可强化一把对应弹药类型的武器，直接补高一级附件并补缺失瞄具。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "治疗逻辑也同步加快：小电池施放时间从 3 秒降到 2.5 秒，注射器从 5 秒降到 4 秒，小电池和注射器叠加上限提高到 6；玩家开局直接拥有 4 个小电池和 4 个注射器；大电与医疗箱刷新率也略有提高。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Hammerpoint 被移出战利品池。",
+            "金色弹匣的收枪自动换弹时间从 5 秒缩短到 2 秒。",
+            "1x Holo 瞄具移出战利品池。",
+            "复制器合成弹药改为每把武器只给 1 组。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "系统层面还加入了 Bot Royale 教学提示，面向 20 级以下账号默认开启，会针对传奇、武器、战利品与对局情境给出辅助说明。Weapon Mastery 的试炼也被全面重做，移除等级限制、降低随机性，更集中地围绕实际伤害与击杀表现来推进。"
+        }
+      ]
+    },
+    {
+      "heading": "武器改动",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "本次武器平衡最鲜明的方向，就是“全线提伤害”。步枪、轻机枪、射手、手枪、冲锋枪、霰弹枪和狙击枪几乎都被重新标定。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "突击步枪：Hemlok 20、Nemesis 17、R-301 14、Flatline 19；补给仓 Havoc 提升到 21，光束射击伤害大幅上调。",
+            "轻机枪：Devotion 16、L-STAR 20、Spitfire 21；Rampage 提升到 30，并降低充能状态衰减速度。",
+            "射手武器：30-30、G7、Triple Take 全面提高伤害与远距离稳定性；补给仓 Bocek 提升到 75 并移除 Deadeye’s Tempo。",
+            "手枪：P2020 提升到 24，RE-45 提升到 14，Wingman 提升到 48 但基础弹匣降到 5。",
+            "冲锋枪：Alternator、CAR、Prowler、Volt 都上调伤害；R-99 回归地面池后伤害从 14 降到 13，但不再有伤害衰减，同时后坐增加、机动特性收敛。",
+            "霰弹枪：EVA-8、Mastiff、Mozambique、Peacekeeper 都提高单发爆发；除 Mozambique 和补给仓 Peacekeeper 外，霰弹枪普遍取消额外爆头倍率，强调尽量打满弹丸而非赌头。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "狙击枪则走了另一条路：基础身伤基本维持不变，但爆头伤害明显增强，同时削弱肢体伤害倍率，以强化“精准武器”的角色定位。Kraber 伤害提高到 150，Charge Rifle、Longbow 和 Sentinel 的爆头收益都比过去更高。"
+        }
+      ]
+    },
+    {
+      "heading": "地图与限时模式",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "公开赛地图轮换：Kings Canyon、Olympus、Broken Moon。",
+            "排位地图轮换：Kings Canyon、Olympus、Storm Point。",
+            "Mixtape（2025 年 2 月 11 日至 3 月 24 日）：TDM 为 Thunderdome、Habitat、Skull Town、Estates、Zeus Station；Control 为 Lava Siphon、Barometer、Labs、Caustic、Thunderdome；Gun Run 为 Wattson、Estates、Thunderdome、Fragment、Skull Town。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "赛季前半段主打 Mythic Mayhem Royale（2025 年 2 月 11 日至 3 月 3 日）。Rampart 的实验型补给箱会投放 3 种神话级 R-301 变体：Hornet（黄）提供更快移动与换弹、击破护盾返战术充能、击倒返终极充能；Limelight（绿）会在造成伤害时为小队回复生命与护盾；Vermilion（红）提高暴击伤害，并在击倒敌人时触发 Thermite 效果。"
+        },
+        {
+          "type": "paragraph",
+          "content": "2 月 25 日至 3 月 3 日开放 Redemption Trios / Duos，加入神话级生存位道具“Respawn Token”。玩家开局自带 1 个，持有时若被淘汰会立刻自动复活；之后还能从击杀、空投与神话补给箱中继续获得。道具持续到最终圈开始前为止，之后会自动换成 EVO 护甲经验。"
+        },
+        {
+          "type": "paragraph",
+          "content": "3 月 4 日至 3 月 10 日切换为 Relic Weapons Trios / Duos。该模式下地面武器全都是金色与神话级完整配装武器，瞄具可以拆换，其余附件固定；每轮补给掉落增加，并会携带两把神话武器。"
+        },
+        {
+          "type": "paragraph",
+          "content": "3 月 11 日至 3 月 24 日回归标准三排和双排，同时开放 Three Strikes: Mystery Legends。所有玩家在上飞机前就会被随机分配传奇，复活后还会再次随机更换，队伍允许出现重复传奇，并且每次 EVO 升级都会自动获得对应等级的全部升级项，且跨复活保留。"
+        }
+      ]
+    },
+    {
+      "heading": "排位与系统门槛",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/4Y4CvgV3kLKCVXIJjJHFlf/5364f352c2373b69c43d3c1136016e52/mp_rr_desertlands_hu0029_cropped.jpg?im=AspectCrop=%2816,9%29,xPosition=0.7513089005235603,yPosition=0.5041899441340782",
+          "alt": "Bot Royale 教学界面示意图",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "“接管”赛季新增 Road to Ranked Challenges，用于限制新账号和回归账号进入排位。虽然最低 20 级门槛仍保留，但现在它只是一组解锁挑战中的一项，玩家必须先完成对应的大逃杀内容，才能获得排位资格。队伍限制同样适用，也就是说所有队员都要完成挑战，才能一起进入排位。"
+        },
+        {
+          "type": "paragraph",
+          "content": "官方解释说，过去单纯要求 20 级的方式很容易被机器人账号滥用，也让只玩 Mixtape 或 LTM 的玩家过早进入排位。新的挑战式门槛，旨在确保进入排位的新玩家已经在 BR 模式里完成了必要练习。"
+        },
+        {
+          "type": "paragraph",
+          "content": "除此之外，系统还加入了更详细的账号等级说明页，可在大厅左上角查看未来等级奖励与经验进度；比赛总结页新增 XP、挑战与通行证进度展示，小队总结统计项也变得更灵活，不再总是固定显示复活、重生和存活时间。"
+        }
+      ]
+    },
+    {
+      "heading": "问题修复与体验优化",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "修复神话补给箱偶尔与金色补给箱合并的问题。",
+            "修复训练场多个生成相关异常，包括 Thermite 特效、Maggie 球撞上隐形门、Mirage 诱饵卡在隐形门等。",
+            "修复毒圈特效与其他粒子偶尔不刷新的罕见问题。",
+            "修复 Mixtape 切换到副手双持武器时错误播放首次拔枪动画的问题。",
+            "修复 Peacekeeper 使用 Choke 后偶尔卡死的问题。",
+            "修复通过切换附件绕过 Sentinel 与 Peacekeeper 拉栓时间的问题。",
+            "修复反应式武器在换枪后丢失反应状态的问题。",
+            "修复传奇选择阶段队友动画不播放，以及传奇储物柜“查看升级”按钮误跳转好友列表的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "Alter / Ash / Wraith：Void Vision 不再对敌方传送门生效；Alter 的部分升级项层级被纠正。",
+            "Lifeline：修复滑翔或使用治疗无人机时崩溃的问题；修复滑翔偶尔掉性能；探路者抓钩可再次挂在 D.O.C. Halo 上。",
+            "Mirage：修复在重力炮附近使用大招时可能崩溃的问题；Lifeline 的 D.O.C. 现在会正确隐形，不再暴露 Mirage。",
+            "Newcastle：终极技能不再会被 Ash 的束缚直接取消。",
+            "Revenant：修复扑击时的罕见崩溃，并让旁观时能正确听到 Shadow Pounce 的起跳音效。",
+            "Wattson：修复可放置两座拦截塔的错误升级。",
+            "Valkyrie：战术技能重新能在 D.O.C. Halo 内和圆顶护盾边缘生效。",
+            "Vantage：使用终极技能加速剂时不再能冲刺。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "进一步加固了对腰射外挂的防护。",
+            "Mixtape 中禁用加速武器助攻返终极能量，防止部分大招过快循环。",
+            "反应式皮肤现在会在大厅菜单中显示对应特效。",
+            "所有地图都清理了一部分老鼠位。",
+            "AI 机器人现在会主动找掩体、执行探头行为，并继续对简单与普通难度进行调优。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "新增单声道输出选项，帮助听力受限玩家更稳定地接收关键声音提示。",
+            "友方脚步声与友方跳伞音量降低，便于落地阶段沟通与判断。",
+            "滑索连接/脱离音效与开门音效的优先级提高。",
+            "敌人被救起时，队友与环境音量会适当下调。",
+            "Fuse 战术与终极技能音量下调；调查信标与毒圈控制台对自己和队友的音量也被降低。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "图形方面，所有主机平台的 CPU 渲染性能都有提升。PC 的 DX12 路径继续优化：21:9 显示器在全屏 16:9 / 16:10 分辨率下默认改为黑边柱状显示，可通过启动参数关闭；CPU 渲染性能提升约 5% 到 10%；首次编译着色器后的加载更快；并新增针对 DX11 即将停止支持的提示。"
+        }
+      ]
+    }
+  ],
+  "translation": {
+    "translated_by": "codex",
+    "glossary_source": "F:/Codex/termbase/data/rsx-termbase.json"
+  }
+}
