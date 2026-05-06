@@ -1,0 +1,1126 @@
+{
+  "id": "apex-legends-overclocked-patch-notes-2026-05-04-full",
+  "source_url": "https://www.ea.com/games/apex-legends/apex-legends/news/overclocked-patch-notes",
+  "game": "Apex Legends",
+  "title": "《Apex 英雄》“超频”版本更新说明",
+  "published_at": "2026-05-04",
+  "lang": "zh-CN",
+  "version": "超频",
+  "summary": "“超频”赛季带来新传奇艾克塞尔、死亡箱重生、连锁治疗、配对与语音音频调整，以及万塔捷、导线管等多项传奇更新。",
+  "cover_image": "https://drop-assets.ea.com/images/bkMLMqEITjTrdGhB8iEut/de1c3ebe1345f4bf67c4cf2c8d3a95fa/Apex_S29-Season-Page-16x9.jpg?im=AspectCrop=(16,9),xPosition=0.32864583333333336,yPosition=0.4898148148148148",
+  "tags": [
+    "版本更新",
+    "平衡调整",
+    "赛季更新"
+  ],
+  "sections": [
+    {
+      "heading": "概览",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/62jB6jD9UI5xkFFHCgAnzG/7c2bce3eb26bf5ca200d3c4ea160fe91/Apex_S29_Gameplay_Trailer_Thumbnail_3840x2160-003.jpg?im=AspectCrop=%2816,9%29,xPosition=0.4942708333333333,yPosition=0.5407407407407407",
+          "alt": "《Apex 英雄》第 29 赛季玩法预告片缩略图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "游戏更新：死亡箱重生",
+            "新传奇：艾克塞尔",
+            "传奇更新：万塔捷与导线管",
+            "全新神话级通用近战：双锋剃刀"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "超频概览",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "“超频”现已装填完毕，蓄势待发！在 Apex 竞赛第 29 赛季中，我们不仅专注于带来激动人心的全新赛季内容，也着手回应玩家社区的关键反馈。全新传奇艾克塞尔加入战局，这位以战斗赛车手为主题的角色注定会搅动现有环境。万塔捷、导线管和 Ash 将获得增强，以跟上当前高速激进的战斗节奏。我们还将推出死亡箱重生和连锁治疗，让你和队友能更快重返战场。发车线已经近在眼前，准备好在《Apex 英雄：超频》中全速冲刺吧。"
+        },
+        {
+          "type": "paragraph",
+          "content": "如果你想快速了解“超频”赛季的一些重点更新，可以先查看我们上周发布的亮点博客。如果你想深入了解环境平衡方向，也可以阅读本赛季的设计师说明。接下来就是本赛季的完整细节。"
+        }
+      ]
+    },
+    {
+      "heading": "配对机制",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "单排体验调整"
+        },
+        {
+          "type": "list",
+          "content": [
+            "我们持续听到了关于单排难度的反馈。在本分段稍晚些时候，我们会为单排玩家引入一套新系统，让他们在排位与非排位比赛中匹配到技能层级略低的对手。此举旨在削弱完整预组队的优势，并缩小单排与三排队伍之间的胜率差距。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "高水平对局排队时间调优"
+        },
+        {
+          "type": "list",
+          "content": [
+            "在 28.1 版本后期，我们开始为高水平玩家逐步延长最大排队时间。我们会保留这些改动，以帮助形成更紧密的技能分层并减少错配对局，例如白金对大师的情况，从而让整体比赛更具竞技性。",
+            "绝大多数玩家不会感受到任何变化。如果你处于较小的匹配池中，例如在非高峰时段，等待时间可能会比以前多出几分钟。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "非排位模式中的机器人"
+        },
+        {
+          "type": "list",
+          "content": [
+            "我们将继续在特定地区和特定技术层级的非排位模式中有限测试机器人，包括三人组、双人组和 Wildcard。目标是通过减少极端技能错配并避免过长排队时间来提升对局质量，尤其是在玩家数量较少的场景中。机器人只会用于填补这些场景中的空缺，不会替代完整比赛，而且你的队伍中永远不会匹配到 Apex 机器人。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "游戏内音频",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "本赛季作为一项体验优化更新，我们提升了语音聊天清晰度，并新增了可为小队中每名成员单独调整语音音量的功能。"
+        },
+        {
+          "type": "paragraph",
+          "content": "我们也在继续处理现有音频问题并改善对局中的整体音频质量，让你能更稳定地依赖这些信息来建立战场态势感知。我们已经注意到近期高达活动期间音频问题有所增加，也正在继续完善我们的指标收集方式，以避免未来再次出现类似情况。我们在第 28 赛季后半段推送了多项稳定性改进，情况已经有所缓解，整体音频体验正朝着更干净稳定的方向前进。感谢所有玩家提交的报告，它们极大帮助了我们推进排查。"
+        }
+      ]
+    },
+    {
+      "heading": "游戏更新",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/1IA1YvzSPsQUAJ6GW5x0vw/33e6526baf34201e7017e2a6a8369163/Apex_S29_health_bar_updates_thumbnail_3840x2160.jpg?im=AspectCrop=%2816,9%29,xPosition=0.50859375,yPosition=0.4236111111111111",
+          "alt": "展示第 28 赛季与第 29 赛季生命条差异的示意图，左侧为 S28，右侧为 S29。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "死亡箱重生"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：通过这项新机制，我们希望为玩家提供一种替代性的队友返场方式。与传统重生信标流程相比，它更快，但风险也更高。我们希望它能成为成功清场并守住区域的队伍所获得的一种奖励。最稳妥的选择依然是脱离战斗、回收旗帜、移动到安全信标并完成重生。但如果死亡箱重生成功，你的队伍就有机会在第三方趁虚而入之前迅速恢复完整战力。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "你现在可以直接从队友的死亡箱中重生阵亡队友。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "高风险：在死亡箱处进行重生会发出巨大声响、对附近敌人可见，并且需要 7 秒。尝试前务必先清空周围区域。",
+            "带着装备重生：从死亡箱重生时，只要死亡箱内仍未被拾取的武器和装备仍在，就会自动回到你的背包中。",
+            "锁定计时器：每次额外死亡都会延长队友再次使用死亡箱重生的等待时间。保持存活即可重置计时器。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "重生信标运输船"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：通过运输船重生本身是一个危险且耗时较长的过程。很多时候，启动重生信标的幸存玩家会在队友从运输船落地前就被扑杀。此次改动的目的，是让回归战场的玩家能更快双脚落地，同时让运输船对整局大厅保持更长时间的可见性，确保敌人不会错过有人正在重新加入战场这一关键信号。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "调整了动画时序"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "缩短运输船到达时间，让被重生的玩家更快重返游戏。",
+            "延长运输船在重生后的悬停时间。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "连锁治疗"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：这项改动的核心是一项体验优化。你何时治疗、如何治疗，会受到很多因素影响。资源有限、时机紧张，都会左右你的选择。很多时候，这意味着你会连续狂按治疗键，用数个小型护盾电池回复，而不是浪费你数量有限且更有价值的护盾电池。我们希望这项改动能让这种连续使用多个治疗物品的既有操作模式变得更顺畅、也更不重复。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "治疗过程中，现在可以预先排队另一个治疗物品，使其在当前治疗动作结束后自动开始。",
+            "你可以在游戏设置菜单中切换 3 个选项，其中“单次”将成为新的默认设置。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "关闭：禁用该功能，维持当前治疗系统不变。",
+            "单次：治疗过程中允许排队一个后续治疗物品。每一次额外治疗都需要你再次手动按治疗键，或从治疗轮盘中重新选择。",
+            "自动：治疗过程中允许排队同一种治疗物品。系统会在无需额外输入的情况下持续自动排入同种治疗物品，直到有效生命值回满或你用完该物品。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "生命条更新"
+        },
+        {
+          "type": "paragraph",
+          "content": "我们重做了生命条系统，以提升其可靠性，并在存在遮挡效果时改善视线检测。烟雾和植被等效果现在会更稳定地阻挡生命条所使用的视线判定。这意味着当敌人被遮挡时，生命条出现的频率会比过去更低。"
+        }
+      ]
+    },
+    {
+      "heading": "传奇",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/G6AapzxkZdcGYeCf8CLIV/452c175836da2164809deb1067d77834/APEX_Legends_S29_Screenshots_Launch_AgnosticMeleeTonfas_ColorVariant_A_v04.png?im=AspectCrop=%2816,9%29,xPosition=0.29713541666666665,yPosition=0.3527777777777778",
+          "alt": "Ash、Alter 与 Ballistic 手持全新神话级近战武器“双锋剃刀”向前冲锋的游戏内截图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "艾克塞尔"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：艾克塞尔的诞生，源于我们在瓦尔基里连续两年主宰 ALGS 之后，对 Apex 移动体系现状进行的一次宏观评估。瓦尔基里一直是职业赛中的热门选择；而在竞技光谱的另一端，动力小子则长期稳居全局选用率第一。其他拥有位移能力的传奇，也一贯稳坐前五。"
+        },
+        {
+          "type": "paragraph",
+          "content": "这并不令人意外。流畅的移动一直是 Apex 的核心特征之一，在这个站位至上的大逃杀游戏里，它本身就是极其强大的工具。我们在开发艾克塞尔前对“移动”做了一次深度拆解，也从中学到最重要的一点：如果只把“移动”视作一个单独工具，那就太片面了。只要上网看看就知道，社区自发整理的身法百科和训练视频随处可见。移动本身更像一个工具箱，而每一次喷射背包推进、每一次柔性落地、每一次抓钩，都只是其中的某一件工具。"
+        },
+        {
+          "type": "paragraph",
+          "content": "所以可得时刻提高警惕，因为艾克塞尔会把整片战场变成她的赛道。"
+        },
+        {
+          "type": "paragraph",
+          "content": "职业"
+        },
+        {
+          "type": "list",
+          "content": [
+            "游击兵"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "被动"
+        },
+        {
+          "type": "list",
+          "content": [
+            "漂移：滑行时拥有更强操控性。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "艾克塞尔在滑行时加速更快、移动速度更高。",
+            "她的横向控制能力也会增强。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "战术"
+        },
+        {
+          "type": "list",
+          "content": [
+            "氮气门：部署一道加速门，让穿过的玩家进入强化滑行。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "进入氮气门后，玩家会被强制带入高速滑行，并获得大幅提高的速度与横向操控。",
+            "只要速度没有自然衰减，这种效果最多可持续 5 秒。",
+            "手动终止滑行会让效果结束，但也可以通过快速兔跳维持一部分状态。",
+            "这道门对敌我双方都生效，不过只有艾克塞尔会获得额外的滑行控制能力。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "绝招"
+        },
+        {
+          "type": "list",
+          "content": [
+            "点火启动：部署一台会主动追踪敌人的无人机，撞击后可将目标击飞位移。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "艾克塞尔会将无人机朝正前方发射出去，它会贴近地面沿直线前进，并以宽视野扫描敌人。",
+            "一旦发现敌人，无人机会自动转向并追击目标，拉近距离直到进入爆炸范围。",
+            "若目标无法在爆炸前甩开或摧毁无人机，它就会把范围内所有目标击飞到空中。",
+            "被击飞的敌人会在空中被标记、受到爆炸伤害，并短暂陷入眩晕。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "升级"
+        },
+        {
+          "type": "list",
+          "content": [
+            "2 级"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "超级滑手：获得第二个战术技能充能。",
+            "自动机：获得第二个绝招技能充能。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "3 级"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "跃升门：将氮气门升级为可提供二段跳。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "效果类似动力小子的三段跳升级，这项强化直接作用于氮气门本身。",
+            "玩家在氮气门效果持续期间最多可使用一次二段跳。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "滑行射手：滑行中射出的子弹将直接从背包弹药中扣除，而不是从弹匣中消耗。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "实战上，这意味着你可以在滑行中持续更长时间开火，而不用那么快换弹。",
+            "直接从背包中扣除的子弹上限为该武器最大弹匣容量的一半。例如紫色扩容弹匣容量为 30 发时，最多会先从背包中消耗 15 发，然后才无缝切换回当前弹匣。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "万塔捷"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：万塔捷在当前战斗环境中的表现偏弱，因此整体选用率也偏低。回看她的技能组后，我们意识到作为一名狙击手，她的定位会随着游戏进行与安全区缩小而变得越来越困难。我们希望能找到一些方法，让她的技能在对局各个阶段都依然具备威力。"
+        },
+        {
+          "type": "paragraph",
+          "content": "被动"
+        },
+        {
+          "type": "list",
+          "content": [
+            "使用 Spotter's Lens 追踪一支队伍时，将获得 70% 的终极技能子弹进度。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "每支队伍 10 秒冷却。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "战术"
+        },
+        {
+          "type": "list",
+          "content": [
+            "使用战术技能位移结束后，万塔捷将免疫重落地硬直。",
+            "飞行速度由每秒 20 米提升至每秒 21 米。",
+            "二段跳距离由 4 米提升至 7 米。",
+            "抵达终点时的减速幅度降低约 25%。",
+            "冷却时间由 20 秒缩短为 17 秒。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "绝招"
+        },
+        {
+          "type": "list",
+          "content": [
+            "切换开火模式即可启用偏置瞄具：一枚安装在枪身侧面的 2 倍镜。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "使用偏置瞄具时，拉栓时间由 1.2 秒降低至 1.1 秒。",
+            "使用偏置瞄具时，举镜时间由 0.5 秒降低至 0.4 秒。",
+            "偏置瞄具下的子弹体积补偿会大幅降低，所以请务必打准。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "普通瞄具下的瞄准响应性提升。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "举镜时间由 0.6 秒降低至 0.5 秒。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "两种模式下的武器操控性均提升。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "收枪与下压时间由 0.5 秒降低至 0.4 秒。",
+            "部署与抬枪时间由 1.5 秒降低至 1.3 秒。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "普通瞄具默认倍率由 3 倍提升至 4 倍。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "升级"
+        },
+        {
+          "type": "list",
+          "content": [
+            "战术冷却升级替换为 Herd Tracker：标记一名敌人时会追踪整支队伍。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "导线管"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：导线管是一位选用率偏低、但相较其他支援型传奇表现却相当不错的角色，因此她带来了一个很有意思的设计难题：既然战绩数据很好，为什么更多玩家没有选择她？我们的首要目标，是继续让导线管保持“有挑战但值得精通”的体验，提升她制造高光操作的潜力，同时也为她创造更多能与队友产生成功支援互动的机会。"
+        },
+        {
+          "type": "paragraph",
+          "content": "技能"
+        },
+        {
+          "type": "list",
+          "content": [
+            "被动："
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "新效果：当 Savior’s Speed 在朝游击兵冲刺时生效，可额外获得 5% 移动速度。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "战术："
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "Split Charge 已并入基础技能组，改为默认拥有 2 层充能。",
+            "回复持续时间由 9 秒降低至 6 秒。",
+            "回复速度由每秒 20 点降低至每秒 15 点。",
+            "冷却时间调整为 27 秒。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "原版 Radiant Transfer 冷却为 32 秒。",
+            "Split Charge 冷却为 21 秒。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "移除冷却启动延迟。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "现在技能施放后便会开始冷却，即使仍在寻找目标也一样。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "升级"
+        },
+        {
+          "type": "list",
+          "content": [
+            "3 级"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "Radiant Transfer 与 Split Charge 两项升级已被移除。",
+            "新升级：Instant Barrier"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "立即获得一部分 Radiant Transfer 的临时护盾，但回复持续时间减少 2 秒。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "新升级：Enduring Barrier"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "Radiant Transfer 提供的临时护盾回复在受到伤害后仍会继续生效。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "ALTER"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：在最高水平对局中，Alter 一直都是一位稳定且高效的角色。她极强的机动规避能力、加上能提供给队伍的工具性与安全感，让她在自己这一职业中始终站在较高的位置。虽然我们认为她所带来的玩家幻想相当有趣，但我们也希望在她的玩法公式中加入更多风险，让她那些狡猾逃生手段不再像之前那样“几乎没有代价”。"
+        },
+        {
+          "type": "paragraph",
+          "content": "技能"
+        },
+        {
+          "type": "list",
+          "content": [
+            "战术："
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "冷却时间由 20 秒提高至 25 秒。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "绝招："
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "范围由 300 米降低至 250 米。",
+            "自我回收时间由 2 秒增加至 3 秒。",
+            "队友回收时间由 3 秒增加至 4 秒。",
+            "追击传送门开启时间由 6 秒缩短至 4 秒。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "升级"
+        },
+        {
+          "type": "list",
+          "content": [
+            "3 级"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "Void Breacher"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "移动速度加成由 30% 降低至 15%。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "ASH"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：我们知道，玩家对最近一轮 Ash 改动的普遍感受是“把她直接砍进地里了”。当时为了控制她在全球选用率上的相对统治力，我们确实不得不大幅削弱她。但现在随着动力小子、恶灵以及新加入的艾克塞尔等灵活型传奇同时存在，我们有了更多空间去寻找一个更健康的中间状态。我们希望把 Ash 的被动速度感稍微还回来一些，但也会谨慎推进，避免她重新回到第 24 赛季那种过强状态。"
+        },
+        {
+          "type": "paragraph",
+          "content": "被动"
+        },
+        {
+          "type": "list",
+          "content": [
+            "冷却时间由 12 秒缩短至 10 秒。",
+            "速度由 425 提升至 450。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "全新神话级通用近战：双锋剃刀"
+        },
+        {
+          "type": "paragraph",
+          "content": "传统武术兵器与致命激光技术相互结合，全新“双锋剃刀”神话级通用近战外观由此登场。"
+        },
+        {
+          "type": "paragraph",
+          "content": "这对双持近战武器配备高速旋转的激光刀刃，任何胆敢挥舞它们的传奇都能打出危险而凶狠的近战打击。双锋剃刀可作为“超频”赛季补给包中的可能掉落，整个赛季期间均可获取。"
+        },
+        {
+          "type": "paragraph",
+          "content": "*并非所有地区均可获得。"
+        }
+      ]
+    },
+    {
+      "heading": "战利品与配件",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "补给仓轮换"
+        },
+        {
+          "type": "list",
+          "content": [
+            "C.A.R. 回归地面掉落（详情见下文）。",
+            "L-STAR 进入补给仓（详情见下文）。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "金色武器轮换"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Devotion 轻机枪、Hemlok Breach AR、Alternator 冲锋枪、Charge Rifle、Wingman"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "轻型弹药"
+        },
+        {
+          "type": "paragraph",
+          "content": "开发者说明：整体来看，轻型弹药武器在性能和续航方面都有些过于稳定。调整轻型弹药堆叠数量，是我们尝试整体压低这一弹药类别强度的一种方式，也能给其他弹药类型创造更多发挥空间。"
+        },
+        {
+          "type": "list",
+          "content": [
+            "轻型弹药堆叠数量下调至 60 发（原为 72 发）。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "武器"
+        },
+        {
+          "type": "paragraph",
+          "content": "Hemlok Breach AR"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Breach Charge 冷却时间由 15 秒提高至 25 秒。",
+            "Breach Charge 现在可以驱散气体和烟雾。",
+            "伤害由 23 下调至 22（此前已通过热修复实装）。",
+            "所有弹匣等级的弹容量统一减少 2 发（此前已通过热修复实装）。",
+            "所有奖杯系统现在都能正确拦截 Hemlok 的 Breach Charge（此前已通过热修复实装）。",
+            "水平与垂直后坐力增加（此前已通过热修复实装）。",
+            "腰射散布增加（此前已通过热修复实装）。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "L-STAR EMG【补给仓】"
+        },
+        {
+          "type": "list",
+          "content": [
+            "伤害由 19 提升至 20。",
+            "新增配件：Redline"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "接近过热时，伤害与弹体尺寸都会提升。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "P2020"
+        },
+        {
+          "type": "list",
+          "content": [
+            "基础伤害由 23 提升至 24（此前已通过热修复实装）。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "C.A.R.【地面掉落】"
+        },
+        {
+          "type": "list",
+          "content": [
+            "移除配件：Galvanic Gavel。",
+            "弹匣容量调整："
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "蓝色弹匣由 25 发提升至 26 发。",
+            "紫色与金色弹匣由 28 发提升至 30 发。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "锁定配件"
+        },
+        {
+          "type": "paragraph",
+          "content": "Double Tap Trigger"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Alternator 解锁所需点数由 375 提高至 500。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Turbocharger"
+        },
+        {
+          "type": "list",
+          "content": [
+            "Devotion 解锁所需点数由 500 降低至 425。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "地图",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://drop-assets.ea.com/images/2fg5jL2xg3UcSOOcWbLxI7/4553733415d8b60d59b43a73a783e144/Broken_moon_map_changes_v2.png?im=AspectCrop=%2816,9%29,xPosition=0.4713541666666667,yPosition=0.586574074074074",
+          "alt": "破碎之月地图轮转与路径更新示意图。",
+          "source": "official"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "开发者说明：本赛季我们会重点审视地图的大局轮转，以及地图本身提供的路线选择和传奇技能组合之间的关系。"
+        },
+        {
+          "type": "paragraph",
+          "content": "在此前的更新中，我们曾尝试通过调整三叉戟来创造更有趣、更刺激的玩法机会。然而它们并没有达到我们对 Apex 载具体验的目标，所以这次我们决定将其移除，让传奇本身重新掌握轮转主导权。我们已经看到玩家越来越常用三叉戟去做一些偏离其原始设计目的的事情，例如在各个兴趣点之间高速转点。我们认为，依靠当前传奇位移能力的状态，同样可以更好实现快速轮转这一目标，也能让你的队伍阵容选择更有意义。"
+        },
+        {
+          "type": "paragraph",
+          "content": "破碎之月中的滑轨一直都在塑造这张地图的整体节奏，以及队伍在兴趣点之间的轮转方式。但这些滑轨也造成了很多悄无声息的第三方进场，带来特别令人沮丧的体验。我们已经移除了大多数连接兴趣点与兴趣点之间的轮转滑轨，同时保留了兴趣点内部那些用于定义战斗空间的滑轨。这样应该能让这张地图的通行逻辑更易理解，也更具可预期性。"
+        },
+        {
+          "type": "paragraph",
+          "content": "我们希望，队伍组成和传奇选择在地图穿越这件事上真正变得重要。减少那些任何传奇都能无差别使用的地图轮转工具，也等于把轮转能力重新交还给传奇本身。"
+        },
+        {
+          "type": "paragraph",
+          "content": "风暴点："
+        },
+        {
+          "type": "list",
+          "content": [
+            "移除三叉戟。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "奥林匹斯："
+        },
+        {
+          "type": "list",
+          "content": [
+            "移除三叉戟。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "破碎之月："
+        },
+        {
+          "type": "list",
+          "content": [
+            "大多数轮转滑轨已移除，但大部分兴趣点内的滑轨仍然保留。",
+            "西侧新增两个重新部署气球。",
+            "新增两条轮转路线，分别位于 Stasis Array 北侧与 Terraformer 西侧。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "公开赛与排位"
+        },
+        {
+          "type": "list",
+          "content": [
+            "破碎之月",
+            "诸王峡谷",
+            "奥林匹斯"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "Mixtape"
+        },
+        {
+          "type": "list",
+          "content": [
+            "2026-05-05 至 2026-06-23"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "团队死斗：Fragment East、Skull Town、Zeus Station、Estates",
+            "控制：Labs、Barometer、Lava Siphon、Caustic",
+            "Gun Run：Wattson Pylon、Estates、Monument、Skull Town"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Wildcard",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "Wildcard"
+        },
+        {
+          "type": "list",
+          "content": [
+            "奥林匹斯 Wildcard（2026-05-05 至 2026-05-19）",
+            "诸王峡谷 Wildcard（2026-05-19 至 2026-06-02）"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "排位",
+      "media": [],
+      "blocks": [
+        {
+          "type": "paragraph",
+          "content": "排位天梯（本分段稍后上线）"
+        },
+        {
+          "type": "paragraph",
+          "content": "Ranked Ladder 2：2026-05-21 至 2026-05-24；Ranked Ladder 3：2026-05-28 至 2026-05-31；Ranked Ladder 4：2026-06-04 至 2026-06-07；Ranked Ladder 5：2026-06-11 至 2026-06-14；Ranked Ladder 6：2026-06-18 至 2026-06-21。"
+        },
+        {
+          "type": "paragraph",
+          "content": "赛季重置定级"
+        },
+        {
+          "type": "paragraph",
+          "content": "我们修复了一个问题：在赛季重置后，接近段位分界线的玩家有时会比表现相近甚至略低的其他玩家被放置到更低的位置。"
+        },
+        {
+          "type": "paragraph",
+          "content": "现在，重置后的定级结果应当会更一致，也会更贴近你上一赛季的成绩，同时保持整体赛季重置体验不变。"
+        }
+      ]
+    },
+    {
+      "heading": "错误修复",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "修复罕见客户端报错：“SignifierName: 'Player' - is not expected entity type 'player' for remote function”。",
+            "优化 Hardlight 与其他对象在重建过程中的交互，防止其意外摧毁某些传奇技能。",
+            "修复部分低弹药 / 无弹药提示显示错误的问题。",
+            "修复 Arc Star 和 Frag Grenade 在 Hardlight 上爆炸时的音效问题。",
+            "修复 Volt 的“Death Enhancer”皮肤在玩家隐身时仍有可见部件的问题。",
+            "修复双持 Mozambique 有时会并合成单把武器并以单武器方式开火的问题。",
+            "修复控制模式中武器等级有时会下降的问题。",
+            "修复尝试排序随机收藏皮肤时发生崩溃的问题。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "传奇"
+        },
+        {
+          "type": "list",
+          "content": [
+            "纽卡斯尔"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复终极技能猛击无法在空门框上摧毁 Catalyst 加固物的问题。",
+            "为 Ready to Rumble 与 Defensive Line 升级新增语音。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "亡灵"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复有时可以提前取消战术技能并比预期更早掏枪的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "命脉"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复 Wildcard 中自救有时未使用正确动画且 UI 计时不准确的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "万塔捷"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复一个问题：即使已完全开镜，也会在短暂延迟后才获得应有的 ADS 精度。****",
+            "修复万塔捷在 Fight Night 中可以装备武器的问题。",
+            "修复 Spotter’s Lens 将诱饵优先级设得过低，导致真身 Mirage 过于容易辨认的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "罗芭"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复黑市可偷走敌方小队已制作旗帜的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "动力小子"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "为 Stim Surge 新增语音。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "疯玛吉"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复 Wrecking Ball 在撞击门上沿时有时无法摧毁门的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "暴雷"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复 Motherload 无法正确穿透部分传奇技能的问题。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "直布罗陀"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复多个 Thunder Dome 重叠时，玩家可以无伤进入圆顶的问题。"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "体验优化",
+      "media": [],
+      "blocks": [
+        {
+          "type": "list",
+          "content": [
+            "射击场："
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "新增射击场设置："
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "无限治疗开关",
+            "自救开关",
+            "重建 Hardlight 按钮"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "修复铝热剂相关交互。",
+            "那些失踪的 Nessie 度假归来啦。"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "改进物理计算的 CPU 性能，消除了一个卡顿来源，尤其是在单线程性能较高的 CPU 上更明显，例如 Ryzen X3D 系列。",
+            "加入逻辑，防止瓦尔基里或其他传奇进入敌方重生运输船内部。",
+            "新增传奇在 Hardlight 被加固时的语音。",
+            "新增传奇在短时间内连续击碎多名敌人护盾时的语音。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "音频"
+        },
+        {
+          "type": "list",
+          "content": [
+            "在小队菜单中新增为每位队友单独调整语音聊天音量的功能。",
+            "提升语音聊天清晰度。",
+            "修复 HAVOC 步枪音效有时会在开火者本地中断的问题。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "引擎"
+        },
+        {
+          "type": "list",
+          "content": [
+            "图形"
+          ]
+        },
+        {
+          "type": "list",
+          "content": [
+            "在上一次赛季中期更新中用于奥林匹斯的遮挡数据结构，现在已应用到所有地图上，可略微提升 CPU 性能。",
+            "修复 PC 在极高帧率运行时（例如 240+ FPS）可能偶发掉帧的问题。",
+            "环境光遮蔽效果更干净，并包含新的镜面遮蔽；在大多数情况下，它也会比旧版环境光遮蔽更快，但在高分辨率（如 PC 4K）且高或超高画质设置下除外。",
+            "提升立方体贴图反射强度的精确度，尤其是在室外阴影区域。",
+            "提升天空环境光照精度。",
+            "提升地图中许多道具的烘焙光照精度。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": "{{asset-group:28klXC7ojIsu7jxbvoRpet}}"
+        },
+        {
+          "type": "paragraph",
+          "content": "{{asset-group:6pPaV4VJHFqVzvz1eXUOEf}}"
+        },
+        {
+          "type": "paragraph",
+          "content": "{{asset-group:56b2xhFO6vo3LZqSlz6JrW}}"
+        },
+        {
+          "type": "paragraph",
+          "content": "立即在 PlayStation 4、PlayStation 5、Xbox One、Xbox Series X|S、Nintendo Switch、Nintendo Switch 2，以及通过 EA app、Epic 和 Steam 的 PC 平台免费游玩《Apex 英雄》*。"
+        },
+        {
+          "type": "paragraph",
+          "content": "关注《Apex 英雄™》的 Twitter、Instagram 与 TikTok，订阅我们的 YouTube 频道，并访问官方论坛。"
+        },
+        {
+          "type": "paragraph",
+          "content": "立即订阅新闻邮件，接收最新的《Apex 英雄》新闻、更新、幕后内容、独家优惠以及更多内容（包括其他 EA 新闻、产品、活动和促销）。"
+        },
+        {
+          "type": "paragraph",
+          "content": "随着我们持续倾听社区反馈并不断开发和演进 Live Service 与内容，本公告内容未来可能会发生变化。我们会尽最大努力让社区始终获得充分信息。更多信息请参阅 EA 在线服务更新页面：https://www.ea.com/service-updates。"
+        },
+        {
+          "type": "paragraph",
+          "content": "*可能需要适用平台账号及平台订阅（需单独购买）。需要持续互联网连接和 EA 账号。适用年龄限制。包含游戏内购买。"
+        }
+      ]
+    }
+  ]
+}
